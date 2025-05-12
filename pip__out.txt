@@ -1,0 +1,327 @@
+nohup: ignoring input
+[34m
+████████╗██╗███╗   ███╗███████╗    ███████╗███████╗██████╗ ██╗███████╗███████╗    █████╗ ██╗
+╚══██╔══╝██║████╗ ████║██╔════╝    ██╔════╝██╔════╝██╔══██╗██║██╔════╝██╔════╝   ██╔══██╗██║
+   ██║   ██║██╔████╔██║█████╗█████╗███████╗█████╗  ██████╔╝██║█████╗  ███████╗   ███████║██║
+   ██║   ██║██║╚██╔╝██║██╔══╝╚════╝╚════██║██╔══╝  ██╔══██╗██║██╔══╝  ╚════██║   ██╔══██║██║
+   ██║   ██║██║ ╚═╝ ██║███████╗    ███████║███████╗██║  ██║██║███████╗███████║██╗██║  ██║██║
+   ╚═╝   ╚═╝╚═╝     ╚═╝╚══════╝    ╚══════╝╚══════╝╚═╝  ╚═╝╚═╝╚══════╝╚══════╝╚═╝╚═╝  ╚═╝╚═╝
+ai4ts v0.0.3 - building AI for unified time-series analysis, https://time-series.ai [0m
+
+2025-05-04 21:34:24 [WARNING]: ‼️ `pypots.utils.metrics` is deprecated. Please import from `pypots.nn.functional` instead.
+TRAIN
+{'0': 'HF008', '1': 'HF008_V2', '2': 'HF009', '3': 'HF009_V2', '4': 'HF010', '5': 'HF010_V2', '6': 'HF011', '7': 'HF011_V2', '8': 'HF012', '9': 'HF012_V2', '10': 'HF013', '11': 'HF014', '12': 'HF015', '13': 'HF015_V2', '14': 'HF016', '15': 'HF016_V2', '16': 'HF017', '17': 'HF018', '18': 'HF019', '19': 'HF020', '20': 'HF021', '21': 'HF022', '22': 'HF023', '23': 'HF024', '24': 'HF026', '25': 'HF027', '26': 'HF028', '27': 'HF029', '28': 'HF030_V2', '29': 'HF031', '30': 'HF031_V2', '31': 'HF032', '32': 'HF033_V2', '33': 'HG001_V2', '34': 'HG002', '35': 'HG002_V2', '36': 'HG003', '37': 'HG004', '38': 'HG005', '39': 'HG005_V2', '40': 'HG005_V3', '41': 'HG006_V2', '42': 'HG008', '43': 'HG008_V2', '44': 'HG009', '45': 'HG009_V2', '46': 'HG010', '47': 'HG010_V2', '48': 'HG011', '49': 'HG011_V2', '50': 'HG012_V2', '51': 'HG014_V2', '52': 'HG015_V2', '53': 'HG016', '54': 'HG016_V2', '55': 'HG017', '56': 'HG017_V2', '57': 'HG018', '58': 'HG018_V2', '59': 'HG019_V2', '60': 'HG021_V2', '61': 'HG022', '62': 'HG022_V2', '63': 'HG023', '64': 'HG023_V2', '65': 'HG024', '66': 'HG024_V2', '67': 'HG025_V2', '68': 'HG027', '69': 'HG027_V2', '70': 'HG029', '71': 'HG029_V2', '72': 'HG030_V2', '73': 'HG031', '74': 'HG031_V2', '75': 'HG032', '76': 'HG033', '77': 'HG034', '78': 'HG034_V2', '79': 'HG035', '80': 'HG035_V2', '81': 'HG036_V2', '82': 'HG037', '83': 'HG037_V2', '84': 'HG038_V2', '85': 'HG039', '86': 'HG039_V2', '87': 'HG041', '88': 'HG042', '89': 'HG043', '90': 'HG044', '91': 'HG044_V2', '92': 'HG045', '93': 'HG047', '94': 'HG047_V2', '95': 'HG049', '96': 'HG049_V2', '97': 'HG050', '98': 'HG050_V2', '99': 'HG051', '100': 'HG051_V2', '101': 'HG052', '102': 'HG052_V2', '103': 'HG053_V2', '104': 'HG054', '105': 'HG054_V2', '106': 'HG055', '107': 'HG055_V2', '108': 'HG056', '109': 'HG057', '110': 'HG059', '111': 'HG060', '112': 'HG061_V2', '113': 'HG062', '114': 'HG063', '115': 'HG064', '116': 'HG064_V2', '117': 'HG065', '118': 'HG065_V2', '119': 'HG066', '120': 'HG066_V2', '121': 'HG067', '122': 'HG067_V2', '123': 'HG071', '124': 'HG072', '125': 'HG072_V2', '126': 'HG073', '127': 'HG073_V2', '128': 'HG074', '129': 'HGJ002', '130': 'HGJ003', '131': 'HGJ004', '132': 'HGJ006', '133': 'HGJ008', '134': 'HGJ009', '135': 'HGJ011', '136': 'HGJ012'}
+length of instances_dict :  137
+----------------------------------------------------------------------------------------------------
+length of smoothpur_1_4 :  137
+length of smoothpur_5_8 :  137
+length of smoothpur_9_10 :  137
+length of smoothpur_11_12 :  137
+----------------------------------------------------------------------------------------------------
+type of smoothpur_1_4 :  <class 'numpy.ndarray'>
+type of smoothpur_5_8 :  <class 'numpy.ndarray'>
+type of smoothpur_9_10 :  <class 'numpy.ndarray'>
+type of smoothpur_11_12 :  <class 'numpy.ndarray'>
+----------------------------------------------------------------------------------------------------
+shape of smoothpur_1_4 :  (137, 4, 3, 15000)
+shape of smoothpur_5_8 :  (137, 4, 3, 15000)
+shape of smoothpur_9_10 :  (137, 2, 3, 2, 15000)
+shape of smoothpur_11_12 :  (137, 2, 3, 2, 15000)
+TEST
+{'0': 'HF026_V2', '1': 'HF027_V2', '2': 'HF032_V2', '3': 'HF033', '4': 'HG001', '5': 'HG003_V2', '6': 'HG004_V2', '7': 'HG015', '8': 'HG019', '9': 'HG021', '10': 'HG025', '11': 'HG026', '12': 'HG028', '13': 'HG028_V2', '14': 'HG030', '15': 'HG032_V2', '16': 'HG038', '17': 'HG041_V2', '18': 'HG043_V2', '19': 'HG048', '20': 'HG048_V2', '21': 'HG053', '22': 'HG058', '23': 'HG058_V2', '24': 'HG060_V2', '25': 'HG061', '26': 'HG063_V2', '27': 'HG069', '28': 'HG069_V2', '29': 'HG070', '30': 'HG074_V2', '31': 'HGJ001', '32': 'HGJ005', '33': 'HGJ007', '34': 'HGJ010'}
+length of instances_dict :  35
+----------------------------------------------------------------------------------------------------
+length of smoothpur_1_4 :  35
+length of smoothpur_5_8 :  35
+length of smoothpur_9_10 :  35
+length of smoothpur_11_12 :  35
+----------------------------------------------------------------------------------------------------
+type of smoothpur_1_4 :  <class 'numpy.ndarray'>
+type of smoothpur_5_8 :  <class 'numpy.ndarray'>
+type of smoothpur_9_10 :  <class 'numpy.ndarray'>
+type of smoothpur_11_12 :  <class 'numpy.ndarray'>
+----------------------------------------------------------------------------------------------------
+shape of smoothpur_1_4 :  (35, 4, 3, 15000)
+shape of smoothpur_5_8 :  (35, 4, 3, 15000)
+shape of smoothpur_9_10 :  (35, 2, 3, 2, 15000)
+shape of smoothpur_11_12 :  (35, 2, 3, 2, 15000)
+cuda
+TRAIN
+shape of flattened smoothpur_1_4 : (1096, 15000)
+shape of flattened smoothpur_5_8 : (1096, 15000)
+shape of flattened smoothpur_x_9_10 : (548, 15000)
+shape of flattened smoothpur_y_9_10 : (548, 15000)
+shape of flattened smoothpur_x_11_12 : (548, 15000)
+shape of flattened smoothpur_y_11_12 : (548, 15000)
+TEST
+shape of flattened smoothpur_1_4 : (280, 15000)
+shape of flattened smoothpur_5_8 : (280, 15000)
+shape of flattened smoothpur_x_9_10 : (140, 15000)
+shape of flattened smoothpur_y_9_10 : (140, 15000)
+shape of flattened smoothpur_x_11_12 : (140, 15000)
+shape of flattened smoothpur_y_11_12 : (140, 15000)
+TRAIN
+shape of flattened smoothpur_1_4 : (1096, 15000)
+shape of flattened smoothpur_5_8 : (1096, 15000)
+shape of flattened smoothpur_x_9_10 : (548, 15000)
+shape of flattened smoothpur_y_9_10 : (548, 15000)
+shape of flattened smoothpur_x_11_12 : (548, 15000)
+shape of flattened smoothpur_y_11_12 : (548, 15000)
+TEST
+shape of flattened smoothpur_1_4 : (280, 15000)
+shape of flattened smoothpur_5_8 : (280, 15000)
+shape of flattened smoothpur_x_9_10 : (140, 15000)
+shape of flattened smoothpur_y_9_10 : (140, 15000)
+shape of flattened smoothpur_x_11_12 : (140, 15000)
+shape of flattened smoothpur_y_11_12 : (140, 15000)
+TRAIN
+shape of downsampled smoothpur_1_4 : (1096, 500)
+shape of downsampled smoothpur_5_8 : (1096, 500)
+shape of downsampled smoothpur_x_9_10 : (548, 500)
+shape of downsampled smoothpur_y_9_10 : (548, 500)
+shape of downsampled smoothpur_x_11_12 : (548, 500)
+shape of downsampled smoothpur_y_11_12 : (548, 500)
+shape of downsampled All smoothpurs : (4384, 500)
+TEST
+shape of downsampled smoothpur_1_4 : (280, 500)
+shape of downsampled smoothpur_5_8 : (280, 500)
+shape of downsampled smoothpur_x_9_10 : (140, 500)
+shape of downsampled smoothpur_y_9_10 : (140, 500)
+shape of downsampled smoothpur_x_11_12 : (140, 500)
+shape of downsampled smoothpur_y_11_12 : (140, 500)
+shape of downsampled All smoothpurs : (1120, 500)
+TRAIN
+TRAIN
+shape of expanded smoothpur_1_4 : (1096, 500, 1)
+shape of expanded smoothpur_5_8 : (1096, 500, 1)
+shape of expanded smoothpur_x_9_10 : (548, 500, 1)
+shape of expanded smoothpur_y_9_10 : (548, 500, 1)
+shape of expanded smoothpur_x_11_12 : (548, 500, 1)
+shape of expanded smoothpur_y_11_12 : (548, 500, 1)
+shape of expanded All smoothpur : (4384, 500, 1)
+TEST
+shape of expanded smoothpur_1_4 : (280, 500, 1)
+shape of expanded smoothpur_5_8 : (280, 500, 1)
+shape of expanded smoothpur_x_9_10 : (140, 500, 1)
+shape of expanded smoothpur_y_9_10 : (140, 500, 1)
+shape of expanded smoothpur_x_11_12 : (140, 500, 1)
+shape of expanded smoothpur_y_11_12 : (140, 500, 1)
+shape of expanded All smoothpur : (1120, 500, 1)
+/home/mehdi.bejani@technoprobe.local/Mehdi_lr7_V2/pipline_all.py:949: RuntimeWarning: invalid value encountered in divide
+  reconstructed_series /= weight
+SSA
+Imputed results(1120, 500)
+Interpoleted data(1120, 15000)
+Refined data(10, 1120, 15000)
+Cubic
+Imputed results(1120, 500)
+Interpoleted data(1120, 15000)
+Refined data(10, 1120, 15000)
+2025-05-04 21:35:07 [INFO]: No given device, using default device: cuda
+2025-05-04 21:35:07 [WARNING]: ‼️ saving_path not given. Model files and tensorboard file will not be saved.
+2025-05-04 21:35:07 [INFO]: Using customized MAE as the training loss function.
+2025-05-04 21:35:07 [INFO]: Using customized MSE as the validation metric function.
+2025-05-04 21:35:07 [INFO]: SAITS initialized with the given hyperparameters, the number of trainable parameters: 1,318,906
+2025-05-04 21:35:08 [INFO]: Model loaded successfully from saits_weights/saits_all_artificial_4_kfolds_1.pypots
+2025-05-04 21:35:10 [INFO]: No given device, using default device: cuda
+2025-05-04 21:35:10 [WARNING]: ‼️ saving_path not given. Model files and tensorboard file will not be saved.
+2025-05-04 21:35:10 [INFO]: Using customized MAE as the training loss function.
+2025-05-04 21:35:10 [INFO]: Using customized MSE as the validation metric function.
+2025-05-04 21:35:10 [INFO]: SAITS initialized with the given hyperparameters, the number of trainable parameters: 1,318,906
+2025-05-04 21:35:10 [INFO]: Model loaded successfully from saits_weights/saits_all_artificial_4_kfolds_2.pypots
+2025-05-04 21:35:12 [INFO]: No given device, using default device: cuda
+2025-05-04 21:35:12 [WARNING]: ‼️ saving_path not given. Model files and tensorboard file will not be saved.
+2025-05-04 21:35:12 [INFO]: Using customized MAE as the training loss function.
+2025-05-04 21:35:12 [INFO]: Using customized MSE as the validation metric function.
+2025-05-04 21:35:12 [INFO]: SAITS initialized with the given hyperparameters, the number of trainable parameters: 1,318,906
+2025-05-04 21:35:12 [INFO]: Model loaded successfully from saits_weights/saits_all_artificial_4_kfolds_3.pypots
+2025-05-04 21:35:14 [INFO]: No given device, using default device: cuda
+2025-05-04 21:35:14 [WARNING]: ‼️ saving_path not given. Model files and tensorboard file will not be saved.
+2025-05-04 21:35:14 [INFO]: Using customized MAE as the training loss function.
+2025-05-04 21:35:14 [INFO]: Using customized MSE as the validation metric function.
+2025-05-04 21:35:14 [INFO]: SAITS initialized with the given hyperparameters, the number of trainable parameters: 1,318,906
+2025-05-04 21:35:14 [INFO]: Model loaded successfully from saits_weights/saits_all_artificial_4_kfolds_4.pypots
+2025-05-04 21:35:16 [INFO]: No given device, using default device: cuda
+2025-05-04 21:35:16 [WARNING]: ‼️ saving_path not given. Model files and tensorboard file will not be saved.
+2025-05-04 21:35:16 [INFO]: Using customized MAE as the training loss function.
+2025-05-04 21:35:16 [INFO]: Using customized MSE as the validation metric function.
+2025-05-04 21:35:16 [INFO]: SAITS initialized with the given hyperparameters, the number of trainable parameters: 1,318,906
+2025-05-04 21:35:16 [INFO]: Model loaded successfully from saits_weights/saits_all_artificial_4_kfolds_5.pypots
+2025-05-04 21:35:18 [INFO]: No given device, using default device: cuda
+2025-05-04 21:35:18 [WARNING]: ‼️ saving_path not given. Model files and tensorboard file will not be saved.
+2025-05-04 21:35:18 [INFO]: Using customized MAE as the training loss function.
+2025-05-04 21:35:18 [INFO]: Using customized MSE as the validation metric function.
+2025-05-04 21:35:18 [INFO]: SAITS initialized with the given hyperparameters, the number of trainable parameters: 1,318,906
+2025-05-04 21:35:18 [INFO]: Model loaded successfully from saits_weights/saits_all_artificial_4_kfolds_6.pypots
+2025-05-04 21:35:20 [INFO]: No given device, using default device: cuda
+2025-05-04 21:35:20 [WARNING]: ‼️ saving_path not given. Model files and tensorboard file will not be saved.
+2025-05-04 21:35:20 [INFO]: Using customized MAE as the training loss function.
+2025-05-04 21:35:20 [INFO]: Using customized MSE as the validation metric function.
+2025-05-04 21:35:20 [INFO]: SAITS initialized with the given hyperparameters, the number of trainable parameters: 1,318,906
+2025-05-04 21:35:20 [INFO]: Model loaded successfully from saits_weights/saits_all_artificial_4_kfolds_7.pypots
+2025-05-04 21:35:22 [INFO]: No given device, using default device: cuda
+2025-05-04 21:35:22 [WARNING]: ‼️ saving_path not given. Model files and tensorboard file will not be saved.
+2025-05-04 21:35:22 [INFO]: Using customized MAE as the training loss function.
+2025-05-04 21:35:22 [INFO]: Using customized MSE as the validation metric function.
+2025-05-04 21:35:22 [INFO]: SAITS initialized with the given hyperparameters, the number of trainable parameters: 1,318,906
+2025-05-04 21:35:22 [INFO]: Model loaded successfully from saits_weights/saits_all_artificial_4_kfolds_8.pypots
+2025-05-04 21:35:24 [INFO]: No given device, using default device: cuda
+2025-05-04 21:35:24 [WARNING]: ‼️ saving_path not given. Model files and tensorboard file will not be saved.
+2025-05-04 21:35:24 [INFO]: Using customized MAE as the training loss function.
+2025-05-04 21:35:24 [INFO]: Using customized MSE as the validation metric function.
+2025-05-04 21:35:24 [INFO]: SAITS initialized with the given hyperparameters, the number of trainable parameters: 1,318,906
+2025-05-04 21:35:24 [INFO]: Model loaded successfully from saits_weights/saits_all_artificial_4_kfolds_9.pypots
+2025-05-04 21:35:26 [INFO]: No given device, using default device: cuda
+2025-05-04 21:35:26 [WARNING]: ‼️ saving_path not given. Model files and tensorboard file will not be saved.
+2025-05-04 21:35:26 [INFO]: Using customized MAE as the training loss function.
+2025-05-04 21:35:26 [INFO]: Using customized MSE as the validation metric function.
+2025-05-04 21:35:26 [INFO]: SAITS initialized with the given hyperparameters, the number of trainable parameters: 1,318,906
+2025-05-04 21:35:27 [INFO]: Model loaded successfully from saits_weights/saits_all_artificial_4_kfolds_10.pypots
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+SAITS
+Imputed results(10, 1120, 500)
+Interpoleted data(10,)
+Refined data(10, 10)
+KNN
+Imputed results(1120, 500)
+Interpoleted data(1120, 15000)
+Refined data(10, 1120, 15000)
+(1120, 15000)
+(1120, 500)
+(1120, 500)
+(1120, 500)
+All SPT:
+----------------------------------------------------------------------
+Computed Metrics SSA Refined:
+MAE_mean: 0.1231
+MRE_mean: 0.6572
+RMSE_mean: 0.1600
+Sim_mean: 0.8198
+FSD_mean: 3.4998
+RMSE_F_mean: 14.2467
+RMSE_F_Low_mean: 197.6819
+RMSE_F_High_mean: 6.4995
+--------------------------------------------------
+Computed Metrics SAITS Refined:
+MAE_mean: 0.0999
+MRE_mean: 0.7065
+RMSE_mean: 0.1341
+Sim_mean: 0.8409
+FSD_mean: 1.1072
+RMSE_F_mean: 13.7171
+RMSE_F_Low_mean: 184.2416
+RMSE_F_High_mean: 6.4336
+--------------------------------------------------
+Computed Metrics PCHIP Refined:
+MAE_mean: 1.6563
+MRE_mean: 12.7509
+RMSE_mean: 2.5322
+Sim_mean: 0.8095
+FSD_mean: 10.5493
+RMSE_F_mean: 101.4625
+RMSE_F_Low_mean: 1722.2446
+RMSE_F_High_mean: 31.9767
+--------------------------------------------------
+Computed Metrics KNN Refined:
+MAE_mean: 0.1126
+MRE_mean: 0.8352
+RMSE_mean: 0.1366
+Sim_mean: 0.8290
+FSD_mean: 1.7743
+RMSE_F_mean: 12.4028
+RMSE_F_Low_mean: 162.1123
+RMSE_F_High_mean: 6.6563
+--------------------------------------------------
+Computed Metrics SSA Interpolated:
+MAE_mean: 0.1190
+MRE_mean: 0.6361
+RMSE_mean: 0.1546
+Sim_mean: 0.8379
+FSD_mean: 2.9253
+RMSE_F_mean: 15.5201
+RMSE_F_Low_mean: 213.5997
+RMSE_F_High_mean: 7.3654
+--------------------------------------------------
+Computed Metrics SAITS Interpolated:
+MAE_mean: 0.1041
+MRE_mean: 0.7618
+RMSE_mean: 0.1387
+Sim_mean: 0.8412
+FSD_mean: 1.1354
+RMSE_F_mean: 15.0445
+RMSE_F_Low_mean: 201.4874
+RMSE_F_High_mean: 7.2925
+--------------------------------------------------
+Computed Metrics PCHIP Interpolated:
+MAE_mean: 1.7689
+MRE_mean: 13.9253
+RMSE_mean: 2.6980
+Sim_mean: 0.8182
+FSD_mean: 11.1317
+RMSE_F_mean: 108.6546
+RMSE_F_Low_mean: 1851.0772
+RMSE_F_High_mean: 32.2773
+--------------------------------------------------
+Computed Metrics KNN Interpolated:
+MAE_mean: 0.1141
+MRE_mean: 0.8454
+RMSE_mean: 0.1399
+Sim_mean: 0.8212
+FSD_mean: 1.7695
+RMSE_F_mean: 13.8350
+RMSE_F_Low_mean: 180.4719
+RMSE_F_High_mean: 7.5993
+Computed Metrics SSA Downsampled:
+MAE_mean: 0.1404
+MRE_mean: 0.5417
+RMSE_mean: 0.1820
+Sim_mean: 0.8320
+FSD_mean: 0.9299
+RMSE_F_mean: 2.3177
+RMSE_F_Low_mean: 7.9134
+RMSE_F_High_mean: 2.1833
+--------------------------------------------------
+Computed Metrics SAITS Downsampled:
+MAE_mean: 0.1032
+MRE_mean: 0.6002
+RMSE_mean: 0.1368
+Sim_mean: 0.8409
+FSD_mean: 1.1365
+RMSE_F_mean: 2.2107
+RMSE_F_Low_mean: 7.2918
+RMSE_F_High_mean: 2.1145
+--------------------------------------------------
+Computed Metrics PCHIP Downsampled:
+MAE_mean: 1.9167
+MRE_mean: 15.4794
+RMSE_mean: 2.8942
+Sim_mean: 0.7942
+FSD_mean: 12.6615
+RMSE_F_mean: 20.7571
+RMSE_F_Low_mean: 77.7599
+RMSE_F_High_mean: 19.3073
+--------------------------------------------------
+Computed Metrics KNN Downsampled:
+MAE_mean: 0.1213
+MRE_mean: 0.7082
+RMSE_mean: 0.1440
+Sim_mean: 0.8435
+FSD_mean: 1.8963
+RMSE_F_mean: 1.9933
+RMSE_F_Low_mean: 6.1427
+RMSE_F_High_mean: 1.9146
+Traceback (most recent call last):
+  File "/home/mehdi.bejani@technoprobe.local/Mehdi_lr7_V2/pipline_all.py", line 1558, in <module>
+    mae_SSA, mse_SSA, mre_SSA = calculate_metrics(SSA_refined, np.nan_to_num(oDATA), indicating_mask_2)
+  File "/home/mehdi.bejani@technoprobe.local/Mehdi_lr7_V2/pipline_all.py", line 550, in calculate_metrics
+    masked_predicted = predicted_signals[indicating_mask]
+IndexError: boolean index did not match indexed array along axis 0; size of axis is 10 but size of corresponding boolean axis is 1120

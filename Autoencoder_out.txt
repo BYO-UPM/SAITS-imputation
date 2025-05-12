@@ -1,0 +1,2317 @@
+nohup: ignoring input
+TRAIN
+{'0': 'HF008', '1': 'HF008_V2', '2': 'HF009', '3': 'HF009_V2', '4': 'HF010', '5': 'HF010_V2', '6': 'HF011', '7': 'HF011_V2', '8': 'HF012', '9': 'HF012_V2', '10': 'HF013', '11': 'HF014', '12': 'HF015', '13': 'HF015_V2', '14': 'HF016', '15': 'HF016_V2', '16': 'HF017', '17': 'HF018', '18': 'HF019', '19': 'HF020', '20': 'HF021', '21': 'HF022', '22': 'HF023', '23': 'HF024', '24': 'HF026', '25': 'HF027', '26': 'HF028', '27': 'HF029', '28': 'HF030_V2', '29': 'HF031', '30': 'HF031_V2', '31': 'HF032', '32': 'HF033_V2', '33': 'HG001_V2', '34': 'HG002', '35': 'HG002_V2', '36': 'HG003', '37': 'HG004', '38': 'HG005', '39': 'HG005_V2', '40': 'HG005_V3', '41': 'HG006_V2', '42': 'HG008', '43': 'HG008_V2', '44': 'HG009', '45': 'HG009_V2', '46': 'HG010', '47': 'HG010_V2', '48': 'HG011', '49': 'HG011_V2', '50': 'HG012_V2', '51': 'HG014_V2', '52': 'HG015_V2', '53': 'HG016', '54': 'HG016_V2', '55': 'HG017', '56': 'HG017_V2', '57': 'HG018', '58': 'HG018_V2', '59': 'HG019_V2', '60': 'HG021_V2', '61': 'HG022', '62': 'HG022_V2', '63': 'HG023', '64': 'HG023_V2', '65': 'HG024', '66': 'HG024_V2', '67': 'HG025_V2', '68': 'HG027', '69': 'HG027_V2', '70': 'HG029', '71': 'HG029_V2', '72': 'HG030_V2', '73': 'HG031', '74': 'HG031_V2', '75': 'HG032', '76': 'HG033', '77': 'HG034', '78': 'HG034_V2', '79': 'HG035', '80': 'HG035_V2', '81': 'HG036_V2', '82': 'HG037', '83': 'HG037_V2', '84': 'HG038_V2', '85': 'HG039', '86': 'HG039_V2', '87': 'HG041', '88': 'HG042', '89': 'HG043', '90': 'HG044', '91': 'HG044_V2', '92': 'HG045', '93': 'HG047', '94': 'HG047_V2', '95': 'HG049', '96': 'HG049_V2', '97': 'HG050', '98': 'HG050_V2', '99': 'HG051', '100': 'HG051_V2', '101': 'HG052', '102': 'HG052_V2', '103': 'HG053_V2', '104': 'HG054', '105': 'HG054_V2', '106': 'HG055', '107': 'HG055_V2', '108': 'HG056', '109': 'HG057', '110': 'HG059', '111': 'HG060', '112': 'HG061_V2', '113': 'HG062', '114': 'HG063', '115': 'HG064', '116': 'HG064_V2', '117': 'HG065', '118': 'HG065_V2', '119': 'HG066', '120': 'HG066_V2', '121': 'HG067', '122': 'HG067_V2', '123': 'HG071', '124': 'HG072', '125': 'HG072_V2', '126': 'HG073', '127': 'HG073_V2', '128': 'HG074', '129': 'HGJ002', '130': 'HGJ003', '131': 'HGJ004', '132': 'HGJ006', '133': 'HGJ008', '134': 'HGJ009', '135': 'HGJ011', '136': 'HGJ012'}
+length of instances_dict :  137
+----------------------------------------------------------------------------------------------------
+length of smoothpur_1_4 :  137
+length of smoothpur_5_8 :  137
+length of smoothpur_9_10 :  137
+length of smoothpur_11_12 :  137
+----------------------------------------------------------------------------------------------------
+type of smoothpur_1_4 :  <class 'numpy.ndarray'>
+type of smoothpur_5_8 :  <class 'numpy.ndarray'>
+type of smoothpur_9_10 :  <class 'numpy.ndarray'>
+type of smoothpur_11_12 :  <class 'numpy.ndarray'>
+----------------------------------------------------------------------------------------------------
+shape of smoothpur_1_4 :  (137, 4, 3, 15000)
+shape of smoothpur_5_8 :  (137, 4, 3, 15000)
+shape of smoothpur_9_10 :  (137, 2, 3, 2, 15000)
+shape of smoothpur_11_12 :  (137, 2, 3, 2, 15000)
+TEST
+{'0': 'HF026_V2', '1': 'HF027_V2', '2': 'HF032_V2', '3': 'HF033', '4': 'HG001', '5': 'HG003_V2', '6': 'HG004_V2', '7': 'HG015', '8': 'HG019', '9': 'HG021', '10': 'HG025', '11': 'HG026', '12': 'HG028', '13': 'HG028_V2', '14': 'HG030', '15': 'HG032_V2', '16': 'HG038', '17': 'HG041_V2', '18': 'HG043_V2', '19': 'HG048', '20': 'HG048_V2', '21': 'HG053', '22': 'HG058', '23': 'HG058_V2', '24': 'HG060_V2', '25': 'HG061', '26': 'HG063_V2', '27': 'HG069', '28': 'HG069_V2', '29': 'HG070', '30': 'HG074_V2', '31': 'HGJ001', '32': 'HGJ005', '33': 'HGJ007', '34': 'HGJ010'}
+length of instances_dict :  35
+----------------------------------------------------------------------------------------------------
+length of smoothpur_1_4 :  35
+length of smoothpur_5_8 :  35
+length of smoothpur_9_10 :  35
+length of smoothpur_11_12 :  35
+----------------------------------------------------------------------------------------------------
+type of smoothpur_1_4 :  <class 'numpy.ndarray'>
+type of smoothpur_5_8 :  <class 'numpy.ndarray'>
+type of smoothpur_9_10 :  <class 'numpy.ndarray'>
+type of smoothpur_11_12 :  <class 'numpy.ndarray'>
+----------------------------------------------------------------------------------------------------
+shape of smoothpur_1_4 :  (35, 4, 3, 15000)
+shape of smoothpur_5_8 :  (35, 4, 3, 15000)
+shape of smoothpur_9_10 :  (35, 2, 3, 2, 15000)
+shape of smoothpur_11_12 :  (35, 2, 3, 2, 15000)
+TRAIN
+shape of flattened smoothpur_1_4 : (1096, 15000)
+shape of flattened smoothpur_5_8 : (1096, 15000)
+shape of flattened smoothpur_x_9_10 : (548, 15000)
+shape of flattened smoothpur_y_9_10 : (548, 15000)
+shape of flattened smoothpur_x_11_12 : (548, 15000)
+shape of flattened smoothpur_y_11_12 : (548, 15000)
+----------------------------------------------------------------------------------------------------
+shape of downsampled smoothpur_1_4 : (1096, 500)
+shape of downsampled smoothpur_5_8 : (1096, 500)
+shape of downsampled smoothpur_x_9_10 : (548, 500)
+shape of downsampled smoothpur_y_9_10 : (548, 500)
+shape of downsampled smoothpur_x_11_12 : (548, 500)
+shape of downsampled smoothpur_y_11_12 : (548, 500)
+TEST
+shape of flattened smoothpur_1_4 : (280, 15000)
+shape of flattened smoothpur_5_8 : (280, 15000)
+shape of flattened smoothpur_x_9_10 : (140, 15000)
+shape of flattened smoothpur_y_9_10 : (140, 15000)
+shape of flattened smoothpur_x_11_12 : (140, 15000)
+shape of flattened smoothpur_y_11_12 : (140, 15000)
+----------------------------------------------------------------------------------------------------
+shape of downsampled smoothpur_1_4 : (280, 500)
+shape of downsampled smoothpur_5_8 : (280, 500)
+shape of downsampled smoothpur_x_9_10 : (140, 500)
+shape of downsampled smoothpur_y_9_10 : (140, 500)
+shape of downsampled smoothpur_x_11_12 : (140, 500)
+shape of downsampled smoothpur_y_11_12 : (140, 500)
+Initial upsampled signals shape train: torch.Size([2509, 15000])
+Original signals shape train: torch.Size([2509, 15000])
+Initial upsampled signals shape test: torch.Size([604, 15000])
+Original signals shape test: torch.Size([604, 15000])
+[2K[2Kinteractive(children=(IntSlider(value=0, description='signal_idx', max=733), Output()), _dom_classes=('widget-interact',))
+cuda
+  0%|          | 0/63 [00:00<?, ?it/s]
+/home/mehdi.bejani@technoprobe.local/myenv/lib/python3.10/site-packages/torch/nn/modules/conv.py:306: UserWarning: Applied workaround for CuDNN issue, install nvrtc.so (Triggered internally at ../aten/src/ATen/native/cudnn/Conv_v8.cpp:80.)
+  return F.conv1d(input, weight, bias, self.stride,
+Epoch [1/100], Train Loss: 0.662956, Val Loss: 0.253924
+Validation loss decreased (0.253924). Saving model...
+  0%|          | 0/63 [00:00<?, ?it/s]
+Epoch [2/100], Train Loss: 0.087004, Val Loss: 0.034616
+Validation loss decreased (0.034616). Saving model...
+  0%|          | 0/63 [00:00<?, ?it/s]
+Epoch [3/100], Train Loss: 0.017548, Val Loss: 0.008998
+Validation loss decreased (0.008998). Saving model...
+  0%|          | 0/63 [00:00<?, ?it/s]
+Epoch [4/100], Train Loss: 0.008303, Val Loss: 0.004480
+Validation loss decreased (0.004480). Saving model...
+  0%|          | 0/63 [00:00<?, ?it/s]
+Epoch [5/100], Train Loss: 0.007007, Val Loss: 0.003885
+Validation loss decreased (0.003885). Saving model...
+  0%|          | 0/63 [00:00<?, ?it/s]
+Epoch [6/100], Train Loss: 0.005989, Val Loss: 0.003454
+Validation loss decreased (0.003454). Saving model...
+  0%|          | 0/63 [00:00<?, ?it/s]
+Epoch [7/100], Train Loss: 0.006585, Val Loss: 0.003402
+Validation loss decreased (0.003402). Saving model...
+  0%|          | 0/63 [00:00<?, ?it/s]
+Epoch [8/100], Train Loss: 0.005989, Val Loss: 0.003214
+Validation loss decreased (0.003214). Saving model...
+  0%|          | 0/63 [00:00<?, ?it/s]
+Epoch [9/100], Train Loss: 0.005656, Val Loss: 0.003316
+  0%|          | 0/63 [00:00<?, ?it/s]
+Epoch [10/100], Train Loss: 0.005584, Val Loss: 0.003186
+Validation loss decreased (0.003186). Saving model...
+  0%|          | 0/63 [00:00<?, ?it/s]
+Epoch [11/100], Train Loss: 0.005688, Val Loss: 0.002913
+Validation loss decreased (0.002913). Saving model...
+  0%|          | 0/63 [00:00<?, ?it/s]
+Epoch [12/100], Train Loss: 0.005249, Val Loss: 0.002622
+Validation loss decreased (0.002622). Saving model...
+  0%|          | 0/63 [00:00<?, ?it/s]
+Epoch [13/100], Train Loss: 0.005538, Val Loss: 0.002658
+  0%|          | 0/63 [00:00<?, ?it/s]
+Epoch [14/100], Train Loss: 0.006100, Val Loss: 0.003333
+  0%|          | 0/63 [00:00<?, ?it/s]
+Epoch [15/100], Train Loss: 0.005541, Val Loss: 0.002730
+  0%|          | 0/63 [00:00<?, ?it/s]
+Epoch [16/100], Train Loss: 0.005343, Val Loss: 0.002856
+  0%|          | 0/63 [00:00<?, ?it/s]
+Epoch [17/100], Train Loss: 0.005006, Val Loss: 0.003159
+  0%|          | 0/63 [00:00<?, ?it/s]
+Epoch [18/100], Train Loss: 0.004963, Val Loss: 0.002883
+  0%|          | 0/63 [00:00<?, ?it/s]
+Epoch [19/100], Train Loss: 0.005118, Val Loss: 0.002483
+Validation loss decreased (0.002483). Saving model...
+  0%|          | 0/63 [00:00<?, ?it/s]
+Epoch [20/100], Train Loss: 0.004976, Val Loss: 0.002511
+  0%|          | 0/63 [00:00<?, ?it/s]
+Epoch [21/100], Train Loss: 0.005350, Val Loss: 0.002823
+  0%|          | 0/63 [00:00<?, ?it/s]
+Epoch [22/100], Train Loss: 0.004816, Val Loss: 0.002335
+Validation loss decreased (0.002335). Saving model...
+  0%|          | 0/63 [00:00<?, ?it/s]
+Epoch [23/100], Train Loss: 0.005298, Val Loss: 0.002404
+  0%|          | 0/63 [00:00<?, ?it/s]
+Epoch [24/100], Train Loss: 0.005135, Val Loss: 0.002656
+  0%|          | 0/63 [00:00<?, ?it/s]
+Epoch [25/100], Train Loss: 0.004581, Val Loss: 0.002274
+Validation loss decreased (0.002274). Saving model...
+  0%|          | 0/63 [00:00<?, ?it/s]
+Epoch [26/100], Train Loss: 0.005137, Val Loss: 0.002569
+  0%|          | 0/63 [00:00<?, ?it/s]
+Epoch [27/100], Train Loss: 0.004839, Val Loss: 0.002383
+  0%|          | 0/63 [00:00<?, ?it/s]
+Epoch [28/100], Train Loss: 0.005715, Val Loss: 0.002805
+  0%|          | 0/63 [00:00<?, ?it/s]
+Epoch [29/100], Train Loss: 0.004653, Val Loss: 0.002322
+  0%|          | 0/63 [00:00<?, ?it/s]
+Epoch [30/100], Train Loss: 0.005058, Val Loss: 0.002275
+  0%|          | 0/63 [00:00<?, ?it/s]
+Epoch [31/100], Train Loss: 0.004964, Val Loss: 0.002274
+  0%|          | 0/63 [00:00<?, ?it/s]
+Epoch [32/100], Train Loss: 0.005110, Val Loss: 0.002519
+  0%|          | 0/63 [00:00<?, ?it/s]
+Epoch [33/100], Train Loss: 0.005493, Val Loss: 0.002503
+  0%|          | 0/63 [00:00<?, ?it/s]
+Epoch [34/100], Train Loss: 0.005108, Val Loss: 0.002259
+Validation loss decreased (0.002259). Saving model...
+  0%|          | 0/63 [00:00<?, ?it/s]
+Epoch [35/100], Train Loss: 0.004724, Val Loss: 0.002666
+  0%|          | 0/63 [00:00<?, ?it/s]
+Epoch [36/100], Train Loss: 0.005564, Val Loss: 0.002231
+Validation loss decreased (0.002231). Saving model...
+  0%|          | 0/63 [00:00<?, ?it/s]
+Epoch [37/100], Train Loss: 0.004983, Val Loss: 0.002794
+  0%|          | 0/63 [00:00<?, ?it/s]
+Epoch [38/100], Train Loss: 0.005018, Val Loss: 0.002202
+Validation loss decreased (0.002202). Saving model...
+  0%|          | 0/63 [00:00<?, ?it/s]
+Epoch [39/100], Train Loss: 0.004354, Val Loss: 0.002493
+  0%|          | 0/63 [00:00<?, ?it/s]
+Epoch [40/100], Train Loss: 0.005638, Val Loss: 0.002464
+  0%|          | 0/63 [00:00<?, ?it/s]
+Epoch [41/100], Train Loss: 0.004845, Val Loss: 0.002388
+  0%|          | 0/63 [00:00<?, ?it/s]
+Epoch [42/100], Train Loss: 0.004568, Val Loss: 0.002426
+  0%|          | 0/63 [00:00<?, ?it/s]
+Epoch [43/100], Train Loss: 0.005213, Val Loss: 0.002475
+  0%|          | 0/63 [00:00<?, ?it/s]
+Epoch [44/100], Train Loss: 0.005869, Val Loss: 0.002615
+  0%|          | 0/63 [00:00<?, ?it/s]
+Epoch [45/100], Train Loss: 0.004299, Val Loss: 0.002210
+  0%|          | 0/63 [00:00<?, ?it/s]
+Epoch [46/100], Train Loss: 0.004503, Val Loss: 0.002882
+  0%|          | 0/63 [00:00<?, ?it/s]
+Epoch [47/100], Train Loss: 0.004772, Val Loss: 0.002268
+  0%|          | 0/63 [00:00<?, ?it/s]
+Epoch [48/100], Train Loss: 0.004524, Val Loss: 0.002276
+  0%|          | 0/63 [00:00<?, ?it/s]
+Epoch [49/100], Train Loss: 0.004135, Val Loss: 0.002198
+Validation loss decreased (0.002198). Saving model...
+  0%|          | 0/63 [00:00<?, ?it/s]
+Epoch [50/100], Train Loss: 0.004665, Val Loss: 0.002061
+Validation loss decreased (0.002061). Saving model...
+  0%|          | 0/63 [00:00<?, ?it/s]
+Epoch [51/100], Train Loss: 0.004340, Val Loss: 0.002340
+  0%|          | 0/63 [00:00<?, ?it/s]
+Epoch [52/100], Train Loss: 0.004450, Val Loss: 0.002710
+  0%|          | 0/63 [00:00<?, ?it/s]
+Epoch [53/100], Train Loss: 0.005050, Val Loss: 0.002099
+  0%|          | 0/63 [00:00<?, ?it/s]
+Epoch [54/100], Train Loss: 0.005056, Val Loss: 0.002475
+  0%|          | 0/63 [00:00<?, ?it/s]
+Epoch [55/100], Train Loss: 0.005128, Val Loss: 0.002223
+  0%|          | 0/63 [00:00<?, ?it/s]
+Epoch [56/100], Train Loss: 0.004495, Val Loss: 0.002242
+  0%|          | 0/63 [00:00<?, ?it/s]
+Epoch [57/100], Train Loss: 0.004980, Val Loss: 0.002243
+  0%|          | 0/63 [00:00<?, ?it/s]
+Epoch [58/100], Train Loss: 0.004472, Val Loss: 0.002083
+  0%|          | 0/63 [00:00<?, ?it/s]
+Epoch [59/100], Train Loss: 0.004673, Val Loss: 0.002251
+  0%|          | 0/63 [00:00<?, ?it/s]
+Epoch [60/100], Train Loss: 0.004764, Val Loss: 0.002254
+  0%|          | 0/63 [00:00<?, ?it/s]
+Epoch [61/100], Train Loss: 0.004198, Val Loss: 0.002501
+  0%|          | 0/63 [00:00<?, ?it/s]
+Epoch [62/100], Train Loss: 0.004521, Val Loss: 0.002104
+  0%|          | 0/63 [00:00<?, ?it/s]
+Epoch [63/100], Train Loss: 0.004310, Val Loss: 0.002105
+  0%|          | 0/63 [00:00<?, ?it/s]
+Epoch [64/100], Train Loss: 0.004747, Val Loss: 0.002485
+  0%|          | 0/63 [00:00<?, ?it/s]
+Epoch [65/100], Train Loss: 0.004695, Val Loss: 0.002264
+  0%|          | 0/63 [00:00<?, ?it/s]
+Epoch [66/100], Train Loss: 0.004223, Val Loss: 0.002044
+Validation loss decreased (0.002044). Saving model...
+  0%|          | 0/63 [00:00<?, ?it/s]
+Epoch [67/100], Train Loss: 0.004704, Val Loss: 0.002269
+  0%|          | 0/63 [00:00<?, ?it/s]
+Epoch [68/100], Train Loss: 0.004403, Val Loss: 0.002140
+  0%|          | 0/63 [00:00<?, ?it/s]
+Epoch [69/100], Train Loss: 0.004231, Val Loss: 0.001983
+Validation loss decreased (0.001983). Saving model...
+  0%|          | 0/63 [00:00<?, ?it/s]
+Epoch [70/100], Train Loss: 0.004829, Val Loss: 0.002185
+  0%|          | 0/63 [00:00<?, ?it/s]
+Epoch [71/100], Train Loss: 0.004945, Val Loss: 0.002378
+  0%|          | 0/63 [00:00<?, ?it/s]
+Epoch [72/100], Train Loss: 0.004461, Val Loss: 0.002187
+  0%|          | 0/63 [00:00<?, ?it/s]
+Epoch [73/100], Train Loss: 0.004502, Val Loss: 0.002213
+  0%|          | 0/63 [00:00<?, ?it/s]
+Epoch [74/100], Train Loss: 0.004614, Val Loss: 0.002445
+  0%|          | 0/63 [00:00<?, ?it/s]
+Epoch [75/100], Train Loss: 0.004496, Val Loss: 0.002750
+  0%|          | 0/63 [00:00<?, ?it/s]
+Epoch [76/100], Train Loss: 0.004920, Val Loss: 0.002228
+  0%|          | 0/63 [00:00<?, ?it/s]
+Epoch [77/100], Train Loss: 0.004160, Val Loss: 0.002078
+  0%|          | 0/63 [00:00<?, ?it/s]
+Epoch [78/100], Train Loss: 0.004781, Val Loss: 0.001969
+Validation loss decreased (0.001969). Saving model...
+  0%|          | 0/63 [00:00<?, ?it/s]
+Epoch [79/100], Train Loss: 0.004616, Val Loss: 0.002536
+  0%|          | 0/63 [00:00<?, ?it/s]
+Epoch [80/100], Train Loss: 0.003936, Val Loss: 0.002047
+  0%|          | 0/63 [00:00<?, ?it/s]
+Epoch [81/100], Train Loss: 0.003940, Val Loss: 0.002027
+  0%|          | 0/63 [00:00<?, ?it/s]
+Epoch [82/100], Train Loss: 0.004007, Val Loss: 0.002157
+  0%|          | 0/63 [00:00<?, ?it/s]
+Epoch [83/100], Train Loss: 0.004792, Val Loss: 0.002183
+  0%|          | 0/63 [00:00<?, ?it/s]
+Epoch [84/100], Train Loss: 0.004014, Val Loss: 0.002213
+  0%|          | 0/63 [00:00<?, ?it/s]
+Epoch [85/100], Train Loss: 0.004301, Val Loss: 0.002458
+  0%|          | 0/63 [00:00<?, ?it/s]
+Epoch [86/100], Train Loss: 0.004279, Val Loss: 0.002152
+  0%|          | 0/63 [00:00<?, ?it/s]
+Epoch [87/100], Train Loss: 0.004567, Val Loss: 0.002269
+  0%|          | 0/63 [00:00<?, ?it/s]
+Epoch [88/100], Train Loss: 0.004086, Val Loss: 0.002087
+  0%|          | 0/63 [00:00<?, ?it/s]
+Epoch [89/100], Train Loss: 0.004451, Val Loss: 0.002042
+  0%|          | 0/63 [00:00<?, ?it/s]
+Epoch [90/100], Train Loss: 0.005228, Val Loss: 0.002037
+  0%|          | 0/63 [00:00<?, ?it/s]
+Epoch [91/100], Train Loss: 0.004544, Val Loss: 0.002453
+  0%|          | 0/63 [00:00<?, ?it/s]
+Epoch [92/100], Train Loss: 0.004514, Val Loss: 0.002325
+  0%|          | 0/63 [00:00<?, ?it/s]
+Epoch [93/100], Train Loss: 0.003911, Val Loss: 0.002277
+  0%|          | 0/63 [00:00<?, ?it/s]
+Epoch [94/100], Train Loss: 0.004980, Val Loss: 0.002310
+  0%|          | 0/63 [00:00<?, ?it/s]
+Epoch [95/100], Train Loss: 0.004980, Val Loss: 0.002108
+  0%|          | 0/63 [00:00<?, ?it/s]
+Epoch [96/100], Train Loss: 0.004774, Val Loss: 0.002110
+  0%|          | 0/63 [00:00<?, ?it/s]
+Epoch [97/100], Train Loss: 0.004599, Val Loss: 0.003220
+  0%|          | 0/63 [00:00<?, ?it/s]
+Epoch [98/100], Train Loss: 0.004658, Val Loss: 0.002016
+  0%|          | 0/63 [00:00<?, ?it/s]
+Epoch [99/100], Train Loss: 0.004284, Val Loss: 0.001929
+Validation loss decreased (0.001929). Saving model...
+  0%|          | 0/63 [00:00<?, ?it/s]
+Epoch [100/100], Train Loss: 0.004326, Val Loss: 0.002459
+Fold 1/10
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 1, Epoch [1/100], Train Loss: 0.051070, Val Loss: 0.001137
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 1, Epoch [2/100], Train Loss: 0.005513, Val Loss: 0.000371
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 1, Epoch [3/100], Train Loss: 0.004986, Val Loss: 0.000339
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 1, Epoch [4/100], Train Loss: 0.005958, Val Loss: 0.000347
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 1, Epoch [5/100], Train Loss: 0.005462, Val Loss: 0.000306
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 1, Epoch [6/100], Train Loss: 0.005182, Val Loss: 0.000311
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 1, Epoch [7/100], Train Loss: 0.004890, Val Loss: 0.000303
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 1, Epoch [8/100], Train Loss: 0.005074, Val Loss: 0.000289
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 1, Epoch [9/100], Train Loss: 0.004331, Val Loss: 0.000346
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 1, Epoch [10/100], Train Loss: 0.004756, Val Loss: 0.000292
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 1, Epoch [11/100], Train Loss: 0.004365, Val Loss: 0.000295
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 1, Epoch [12/100], Train Loss: 0.004385, Val Loss: 0.000264
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 1, Epoch [13/100], Train Loss: 0.005150, Val Loss: 0.000282
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 1, Epoch [14/100], Train Loss: 0.005397, Val Loss: 0.000319
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 1, Epoch [15/100], Train Loss: 0.004721, Val Loss: 0.000341
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 1, Epoch [16/100], Train Loss: 0.004764, Val Loss: 0.000255
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 1, Epoch [17/100], Train Loss: 0.005096, Val Loss: 0.000287
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 1, Epoch [18/100], Train Loss: 0.004603, Val Loss: 0.000234
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 1, Epoch [19/100], Train Loss: 0.004616, Val Loss: 0.000279
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 1, Epoch [20/100], Train Loss: 0.004827, Val Loss: 0.000252
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 1, Epoch [21/100], Train Loss: 0.004873, Val Loss: 0.000261
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 1, Epoch [22/100], Train Loss: 0.004260, Val Loss: 0.000228
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 1, Epoch [23/100], Train Loss: 0.003955, Val Loss: 0.000243
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 1, Epoch [24/100], Train Loss: 0.004224, Val Loss: 0.000222
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 1, Epoch [25/100], Train Loss: 0.003830, Val Loss: 0.000301
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 1, Epoch [26/100], Train Loss: 0.004664, Val Loss: 0.000234
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 1, Epoch [27/100], Train Loss: 0.003966, Val Loss: 0.000244
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 1, Epoch [28/100], Train Loss: 0.004347, Val Loss: 0.000283
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 1, Epoch [29/100], Train Loss: 0.004406, Val Loss: 0.000272
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 1, Epoch [30/100], Train Loss: 0.004484, Val Loss: 0.000232
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 1, Epoch [31/100], Train Loss: 0.004500, Val Loss: 0.000229
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 1, Epoch [32/100], Train Loss: 0.003613, Val Loss: 0.000233
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 1, Epoch [33/100], Train Loss: 0.003749, Val Loss: 0.000292
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 1, Epoch [34/100], Train Loss: 0.004168, Val Loss: 0.000299
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 1, Epoch [35/100], Train Loss: 0.004039, Val Loss: 0.000211
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 1, Epoch [36/100], Train Loss: 0.003993, Val Loss: 0.000286
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 1, Epoch [37/100], Train Loss: 0.004376, Val Loss: 0.000281
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 1, Epoch [38/100], Train Loss: 0.004296, Val Loss: 0.000218
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 1, Epoch [39/100], Train Loss: 0.004297, Val Loss: 0.000245
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 1, Epoch [40/100], Train Loss: 0.004162, Val Loss: 0.000273
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 1, Epoch [41/100], Train Loss: 0.003820, Val Loss: 0.000233
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 1, Epoch [42/100], Train Loss: 0.004518, Val Loss: 0.000213
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 1, Epoch [43/100], Train Loss: 0.003547, Val Loss: 0.000253
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 1, Epoch [44/100], Train Loss: 0.003600, Val Loss: 0.000211
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 1, Epoch [45/100], Train Loss: 0.004015, Val Loss: 0.000261
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 1, Epoch [46/100], Train Loss: 0.004582, Val Loss: 0.000218
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 1, Epoch [47/100], Train Loss: 0.004130, Val Loss: 0.000225
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 1, Epoch [48/100], Train Loss: 0.004018, Val Loss: 0.000199
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 1, Epoch [49/100], Train Loss: 0.003544, Val Loss: 0.000216
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 1, Epoch [50/100], Train Loss: 0.004445, Val Loss: 0.000247
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 1, Epoch [51/100], Train Loss: 0.004267, Val Loss: 0.000221
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 1, Epoch [52/100], Train Loss: 0.003618, Val Loss: 0.000210
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 1, Epoch [53/100], Train Loss: 0.004326, Val Loss: 0.000220
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 1, Epoch [54/100], Train Loss: 0.003878, Val Loss: 0.000202
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 1, Epoch [55/100], Train Loss: 0.004016, Val Loss: 0.000242
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 1, Epoch [56/100], Train Loss: 0.004046, Val Loss: 0.000281
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 1, Epoch [57/100], Train Loss: 0.003684, Val Loss: 0.000243
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 1, Epoch [58/100], Train Loss: 0.004097, Val Loss: 0.000235
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 1, Epoch [59/100], Train Loss: 0.003832, Val Loss: 0.000200
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 1, Epoch [60/100], Train Loss: 0.003494, Val Loss: 0.000204
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 1, Epoch [61/100], Train Loss: 0.004666, Val Loss: 0.000244
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 1, Epoch [62/100], Train Loss: 0.004195, Val Loss: 0.000242
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 1, Epoch [63/100], Train Loss: 0.004258, Val Loss: 0.000212
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 1, Epoch [64/100], Train Loss: 0.004164, Val Loss: 0.000211
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 1, Epoch [65/100], Train Loss: 0.004626, Val Loss: 0.000222
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 1, Epoch [66/100], Train Loss: 0.004427, Val Loss: 0.000203
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 1, Epoch [67/100], Train Loss: 0.003834, Val Loss: 0.000205
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 1, Epoch [68/100], Train Loss: 0.003857, Val Loss: 0.000209
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 1, Epoch [69/100], Train Loss: 0.004495, Val Loss: 0.000209
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 1, Epoch [70/100], Train Loss: 0.004163, Val Loss: 0.000208
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 1, Epoch [71/100], Train Loss: 0.004011, Val Loss: 0.000190
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 1, Epoch [72/100], Train Loss: 0.003408, Val Loss: 0.000207
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 1, Epoch [73/100], Train Loss: 0.003667, Val Loss: 0.000193
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 1, Epoch [74/100], Train Loss: 0.003626, Val Loss: 0.000202
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 1, Epoch [75/100], Train Loss: 0.004110, Val Loss: 0.000188
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 1, Epoch [76/100], Train Loss: 0.004060, Val Loss: 0.000191
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 1, Epoch [77/100], Train Loss: 0.003626, Val Loss: 0.000193
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 1, Epoch [78/100], Train Loss: 0.003348, Val Loss: 0.000210
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 1, Epoch [79/100], Train Loss: 0.003666, Val Loss: 0.000240
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 1, Epoch [80/100], Train Loss: 0.003732, Val Loss: 0.000193
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 1, Epoch [81/100], Train Loss: 0.004201, Val Loss: 0.000226
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 1, Epoch [82/100], Train Loss: 0.003573, Val Loss: 0.000195
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 1, Epoch [83/100], Train Loss: 0.004189, Val Loss: 0.000188
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 1, Epoch [84/100], Train Loss: 0.003935, Val Loss: 0.000198
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 1, Epoch [85/100], Train Loss: 0.003511, Val Loss: 0.000190
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 1, Epoch [86/100], Train Loss: 0.003709, Val Loss: 0.000226
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 1, Epoch [87/100], Train Loss: 0.004119, Val Loss: 0.000216
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 1, Epoch [88/100], Train Loss: 0.003752, Val Loss: 0.000191
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 1, Epoch [89/100], Train Loss: 0.003381, Val Loss: 0.000192
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 1, Epoch [90/100], Train Loss: 0.003938, Val Loss: 0.000230
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 1, Epoch [91/100], Train Loss: 0.003593, Val Loss: 0.000193
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 1, Epoch [92/100], Train Loss: 0.003498, Val Loss: 0.000203
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 1, Epoch [93/100], Train Loss: 0.003429, Val Loss: 0.000193
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 1, Epoch [94/100], Train Loss: 0.003791, Val Loss: 0.000198
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 1, Epoch [95/100], Train Loss: 0.003215, Val Loss: 0.000192
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 1, Epoch [96/100], Train Loss: 0.004020, Val Loss: 0.000228
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 1, Epoch [97/100], Train Loss: 0.003453, Val Loss: 0.000207
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 1, Epoch [98/100], Train Loss: 0.003359, Val Loss: 0.000194
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 1, Epoch [99/100], Train Loss: 0.003577, Val Loss: 0.000211
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 1, Epoch [100/100], Train Loss: 0.004080, Val Loss: 0.000209
+Fold 2/10
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 2, Epoch [1/100], Train Loss: 0.148914, Val Loss: 0.000787
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 2, Epoch [2/100], Train Loss: 0.007139, Val Loss: 0.000515
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 2, Epoch [3/100], Train Loss: 0.005851, Val Loss: 0.000433
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 2, Epoch [4/100], Train Loss: 0.006014, Val Loss: 0.000401
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 2, Epoch [5/100], Train Loss: 0.005192, Val Loss: 0.000349
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 2, Epoch [6/100], Train Loss: 0.004536, Val Loss: 0.000323
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 2, Epoch [7/100], Train Loss: 0.005108, Val Loss: 0.000351
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 2, Epoch [8/100], Train Loss: 0.004780, Val Loss: 0.000368
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 2, Epoch [9/100], Train Loss: 0.005109, Val Loss: 0.000340
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 2, Epoch [10/100], Train Loss: 0.004794, Val Loss: 0.000309
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 2, Epoch [11/100], Train Loss: 0.005069, Val Loss: 0.000270
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 2, Epoch [12/100], Train Loss: 0.004728, Val Loss: 0.000302
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 2, Epoch [13/100], Train Loss: 0.004416, Val Loss: 0.000294
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 2, Epoch [14/100], Train Loss: 0.005058, Val Loss: 0.000278
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 2, Epoch [15/100], Train Loss: 0.005284, Val Loss: 0.000328
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 2, Epoch [16/100], Train Loss: 0.004100, Val Loss: 0.000303
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 2, Epoch [17/100], Train Loss: 0.004614, Val Loss: 0.000241
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 2, Epoch [18/100], Train Loss: 0.004647, Val Loss: 0.000274
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 2, Epoch [19/100], Train Loss: 0.004570, Val Loss: 0.000286
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 2, Epoch [20/100], Train Loss: 0.004652, Val Loss: 0.000338
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 2, Epoch [21/100], Train Loss: 0.004002, Val Loss: 0.000253
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 2, Epoch [22/100], Train Loss: 0.004289, Val Loss: 0.000261
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 2, Epoch [23/100], Train Loss: 0.004776, Val Loss: 0.000246
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 2, Epoch [24/100], Train Loss: 0.003917, Val Loss: 0.000257
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 2, Epoch [25/100], Train Loss: 0.004887, Val Loss: 0.000235
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 2, Epoch [26/100], Train Loss: 0.004258, Val Loss: 0.000263
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 2, Epoch [27/100], Train Loss: 0.003723, Val Loss: 0.000248
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 2, Epoch [28/100], Train Loss: 0.004520, Val Loss: 0.000250
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 2, Epoch [29/100], Train Loss: 0.004146, Val Loss: 0.000229
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 2, Epoch [30/100], Train Loss: 0.003845, Val Loss: 0.000252
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 2, Epoch [31/100], Train Loss: 0.004823, Val Loss: 0.000325
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 2, Epoch [32/100], Train Loss: 0.004225, Val Loss: 0.000233
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 2, Epoch [33/100], Train Loss: 0.004046, Val Loss: 0.000222
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 2, Epoch [34/100], Train Loss: 0.004095, Val Loss: 0.000231
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 2, Epoch [35/100], Train Loss: 0.003976, Val Loss: 0.000235
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 2, Epoch [36/100], Train Loss: 0.004884, Val Loss: 0.000334
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 2, Epoch [37/100], Train Loss: 0.003938, Val Loss: 0.000233
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 2, Epoch [38/100], Train Loss: 0.004364, Val Loss: 0.000225
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 2, Epoch [39/100], Train Loss: 0.003849, Val Loss: 0.000278
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 2, Epoch [40/100], Train Loss: 0.004180, Val Loss: 0.000269
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 2, Epoch [41/100], Train Loss: 0.004729, Val Loss: 0.000225
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 2, Epoch [42/100], Train Loss: 0.004282, Val Loss: 0.000231
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 2, Epoch [43/100], Train Loss: 0.003554, Val Loss: 0.000244
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 2, Epoch [44/100], Train Loss: 0.004323, Val Loss: 0.000254
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 2, Epoch [45/100], Train Loss: 0.004451, Val Loss: 0.000226
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 2, Epoch [46/100], Train Loss: 0.004174, Val Loss: 0.000244
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 2, Epoch [47/100], Train Loss: 0.004219, Val Loss: 0.000237
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 2, Epoch [48/100], Train Loss: 0.004585, Val Loss: 0.000238
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 2, Epoch [49/100], Train Loss: 0.004475, Val Loss: 0.000267
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 2, Epoch [50/100], Train Loss: 0.004256, Val Loss: 0.000216
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 2, Epoch [51/100], Train Loss: 0.004347, Val Loss: 0.000234
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 2, Epoch [52/100], Train Loss: 0.004825, Val Loss: 0.000243
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 2, Epoch [53/100], Train Loss: 0.004246, Val Loss: 0.000239
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 2, Epoch [54/100], Train Loss: 0.003705, Val Loss: 0.000231
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 2, Epoch [55/100], Train Loss: 0.003880, Val Loss: 0.000227
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 2, Epoch [56/100], Train Loss: 0.004325, Val Loss: 0.000208
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 2, Epoch [57/100], Train Loss: 0.004075, Val Loss: 0.000204
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 2, Epoch [58/100], Train Loss: 0.003810, Val Loss: 0.000247
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 2, Epoch [59/100], Train Loss: 0.004108, Val Loss: 0.000222
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 2, Epoch [60/100], Train Loss: 0.004103, Val Loss: 0.000339
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 2, Epoch [61/100], Train Loss: 0.003762, Val Loss: 0.000252
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 2, Epoch [62/100], Train Loss: 0.004254, Val Loss: 0.000243
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 2, Epoch [63/100], Train Loss: 0.003714, Val Loss: 0.000226
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 2, Epoch [64/100], Train Loss: 0.004111, Val Loss: 0.000270
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 2, Epoch [65/100], Train Loss: 0.003456, Val Loss: 0.000216
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 2, Epoch [66/100], Train Loss: 0.003926, Val Loss: 0.000236
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 2, Epoch [67/100], Train Loss: 0.004093, Val Loss: 0.000287
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 2, Epoch [68/100], Train Loss: 0.004241, Val Loss: 0.000232
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 2, Epoch [69/100], Train Loss: 0.003883, Val Loss: 0.000219
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 2, Epoch [70/100], Train Loss: 0.004527, Val Loss: 0.000205
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 2, Epoch [71/100], Train Loss: 0.003561, Val Loss: 0.000230
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 2, Epoch [72/100], Train Loss: 0.004368, Val Loss: 0.000287
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 2, Epoch [73/100], Train Loss: 0.004164, Val Loss: 0.000225
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 2, Epoch [74/100], Train Loss: 0.003658, Val Loss: 0.000220
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 2, Epoch [75/100], Train Loss: 0.003578, Val Loss: 0.000202
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 2, Epoch [76/100], Train Loss: 0.003844, Val Loss: 0.000208
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 2, Epoch [77/100], Train Loss: 0.003883, Val Loss: 0.000240
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 2, Epoch [78/100], Train Loss: 0.003257, Val Loss: 0.000209
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 2, Epoch [79/100], Train Loss: 0.003647, Val Loss: 0.000206
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 2, Epoch [80/100], Train Loss: 0.004479, Val Loss: 0.000235
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 2, Epoch [81/100], Train Loss: 0.003567, Val Loss: 0.000204
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 2, Epoch [82/100], Train Loss: 0.004038, Val Loss: 0.000206
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 2, Epoch [83/100], Train Loss: 0.003641, Val Loss: 0.000250
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 2, Epoch [84/100], Train Loss: 0.004004, Val Loss: 0.000215
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 2, Epoch [85/100], Train Loss: 0.003481, Val Loss: 0.000210
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 2, Epoch [86/100], Train Loss: 0.003920, Val Loss: 0.000202
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 2, Epoch [87/100], Train Loss: 0.004052, Val Loss: 0.000255
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 2, Epoch [88/100], Train Loss: 0.004047, Val Loss: 0.000205
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 2, Epoch [89/100], Train Loss: 0.004248, Val Loss: 0.000283
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 2, Epoch [90/100], Train Loss: 0.004202, Val Loss: 0.000220
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 2, Epoch [91/100], Train Loss: 0.003524, Val Loss: 0.000237
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 2, Epoch [92/100], Train Loss: 0.004096, Val Loss: 0.000206
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 2, Epoch [93/100], Train Loss: 0.003129, Val Loss: 0.000232
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 2, Epoch [94/100], Train Loss: 0.003893, Val Loss: 0.000209
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 2, Epoch [95/100], Train Loss: 0.003871, Val Loss: 0.000229
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 2, Epoch [96/100], Train Loss: 0.003822, Val Loss: 0.000226
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 2, Epoch [97/100], Train Loss: 0.004466, Val Loss: 0.000213
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 2, Epoch [98/100], Train Loss: 0.003673, Val Loss: 0.000201
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 2, Epoch [99/100], Train Loss: 0.003622, Val Loss: 0.000201
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 2, Epoch [100/100], Train Loss: 0.004104, Val Loss: 0.000203
+Fold 3/10
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 3, Epoch [1/100], Train Loss: 0.119481, Val Loss: 0.001459
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 3, Epoch [2/100], Train Loss: 0.007064, Val Loss: 0.000411
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 3, Epoch [3/100], Train Loss: 0.006100, Val Loss: 0.000342
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 3, Epoch [4/100], Train Loss: 0.004719, Val Loss: 0.000354
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 3, Epoch [5/100], Train Loss: 0.005228, Val Loss: 0.000273
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 3, Epoch [6/100], Train Loss: 0.005148, Val Loss: 0.000266
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 3, Epoch [7/100], Train Loss: 0.004405, Val Loss: 0.000255
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 3, Epoch [8/100], Train Loss: 0.004827, Val Loss: 0.000266
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 3, Epoch [9/100], Train Loss: 0.005355, Val Loss: 0.000315
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 3, Epoch [10/100], Train Loss: 0.005510, Val Loss: 0.000269
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 3, Epoch [11/100], Train Loss: 0.004668, Val Loss: 0.000278
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 3, Epoch [12/100], Train Loss: 0.004980, Val Loss: 0.000250
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 3, Epoch [13/100], Train Loss: 0.004635, Val Loss: 0.000233
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 3, Epoch [14/100], Train Loss: 0.005227, Val Loss: 0.000387
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 3, Epoch [15/100], Train Loss: 0.004220, Val Loss: 0.000249
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 3, Epoch [16/100], Train Loss: 0.004300, Val Loss: 0.000230
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 3, Epoch [17/100], Train Loss: 0.004598, Val Loss: 0.000245
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 3, Epoch [18/100], Train Loss: 0.005032, Val Loss: 0.000274
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 3, Epoch [19/100], Train Loss: 0.004505, Val Loss: 0.000236
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 3, Epoch [20/100], Train Loss: 0.004124, Val Loss: 0.000233
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 3, Epoch [21/100], Train Loss: 0.004991, Val Loss: 0.000211
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 3, Epoch [22/100], Train Loss: 0.004934, Val Loss: 0.000211
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 3, Epoch [23/100], Train Loss: 0.004656, Val Loss: 0.000207
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 3, Epoch [24/100], Train Loss: 0.004042, Val Loss: 0.000220
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 3, Epoch [25/100], Train Loss: 0.004275, Val Loss: 0.000222
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 3, Epoch [26/100], Train Loss: 0.004418, Val Loss: 0.000222
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 3, Epoch [27/100], Train Loss: 0.004006, Val Loss: 0.000204
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 3, Epoch [28/100], Train Loss: 0.003637, Val Loss: 0.000200
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 3, Epoch [29/100], Train Loss: 0.004058, Val Loss: 0.000206
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 3, Epoch [30/100], Train Loss: 0.004418, Val Loss: 0.000201
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 3, Epoch [31/100], Train Loss: 0.003974, Val Loss: 0.000216
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 3, Epoch [32/100], Train Loss: 0.004325, Val Loss: 0.000218
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 3, Epoch [33/100], Train Loss: 0.004438, Val Loss: 0.000224
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 3, Epoch [34/100], Train Loss: 0.004368, Val Loss: 0.000210
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 3, Epoch [35/100], Train Loss: 0.004403, Val Loss: 0.000211
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 3, Epoch [36/100], Train Loss: 0.003741, Val Loss: 0.000215
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 3, Epoch [37/100], Train Loss: 0.004531, Val Loss: 0.000197
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 3, Epoch [38/100], Train Loss: 0.003865, Val Loss: 0.000213
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 3, Epoch [39/100], Train Loss: 0.003707, Val Loss: 0.000217
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 3, Epoch [40/100], Train Loss: 0.004347, Val Loss: 0.000224
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 3, Epoch [41/100], Train Loss: 0.004149, Val Loss: 0.000202
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 3, Epoch [42/100], Train Loss: 0.004222, Val Loss: 0.000224
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 3, Epoch [43/100], Train Loss: 0.004913, Val Loss: 0.000242
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 3, Epoch [44/100], Train Loss: 0.004485, Val Loss: 0.000223
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 3, Epoch [45/100], Train Loss: 0.004897, Val Loss: 0.000201
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 3, Epoch [46/100], Train Loss: 0.003978, Val Loss: 0.000257
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 3, Epoch [47/100], Train Loss: 0.004120, Val Loss: 0.000226
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 3, Epoch [48/100], Train Loss: 0.004358, Val Loss: 0.000204
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 3, Epoch [49/100], Train Loss: 0.004271, Val Loss: 0.000201
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 3, Epoch [50/100], Train Loss: 0.003740, Val Loss: 0.000212
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 3, Epoch [51/100], Train Loss: 0.005057, Val Loss: 0.000199
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 3, Epoch [52/100], Train Loss: 0.003852, Val Loss: 0.000189
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 3, Epoch [53/100], Train Loss: 0.004660, Val Loss: 0.000210
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 3, Epoch [54/100], Train Loss: 0.004781, Val Loss: 0.000242
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 3, Epoch [55/100], Train Loss: 0.003774, Val Loss: 0.000188
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 3, Epoch [56/100], Train Loss: 0.004841, Val Loss: 0.000282
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 3, Epoch [57/100], Train Loss: 0.003785, Val Loss: 0.000189
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 3, Epoch [58/100], Train Loss: 0.003659, Val Loss: 0.000206
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 3, Epoch [59/100], Train Loss: 0.003997, Val Loss: 0.000185
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 3, Epoch [60/100], Train Loss: 0.004535, Val Loss: 0.000244
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 3, Epoch [61/100], Train Loss: 0.003731, Val Loss: 0.000196
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 3, Epoch [62/100], Train Loss: 0.003863, Val Loss: 0.000206
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 3, Epoch [63/100], Train Loss: 0.003969, Val Loss: 0.000186
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 3, Epoch [64/100], Train Loss: 0.004287, Val Loss: 0.000214
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 3, Epoch [65/100], Train Loss: 0.004594, Val Loss: 0.000489
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 3, Epoch [66/100], Train Loss: 0.003959, Val Loss: 0.000184
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 3, Epoch [67/100], Train Loss: 0.003658, Val Loss: 0.000187
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 3, Epoch [68/100], Train Loss: 0.003753, Val Loss: 0.000198
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 3, Epoch [69/100], Train Loss: 0.004255, Val Loss: 0.000270
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 3, Epoch [70/100], Train Loss: 0.004600, Val Loss: 0.000199
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 3, Epoch [71/100], Train Loss: 0.004726, Val Loss: 0.000205
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 3, Epoch [72/100], Train Loss: 0.004345, Val Loss: 0.000232
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 3, Epoch [73/100], Train Loss: 0.004236, Val Loss: 0.000314
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 3, Epoch [74/100], Train Loss: 0.003831, Val Loss: 0.000181
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 3, Epoch [75/100], Train Loss: 0.003892, Val Loss: 0.000200
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 3, Epoch [76/100], Train Loss: 0.003550, Val Loss: 0.000204
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 3, Epoch [77/100], Train Loss: 0.003743, Val Loss: 0.000188
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 3, Epoch [78/100], Train Loss: 0.003735, Val Loss: 0.000222
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 3, Epoch [79/100], Train Loss: 0.004367, Val Loss: 0.000230
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 3, Epoch [80/100], Train Loss: 0.003977, Val Loss: 0.000195
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 3, Epoch [81/100], Train Loss: 0.003582, Val Loss: 0.000207
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 3, Epoch [82/100], Train Loss: 0.003997, Val Loss: 0.000201
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 3, Epoch [83/100], Train Loss: 0.004389, Val Loss: 0.000187
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 3, Epoch [84/100], Train Loss: 0.003426, Val Loss: 0.000196
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 3, Epoch [85/100], Train Loss: 0.004120, Val Loss: 0.000218
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 3, Epoch [86/100], Train Loss: 0.004413, Val Loss: 0.000185
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 3, Epoch [87/100], Train Loss: 0.003684, Val Loss: 0.000197
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 3, Epoch [88/100], Train Loss: 0.003754, Val Loss: 0.000187
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 3, Epoch [89/100], Train Loss: 0.003884, Val Loss: 0.000184
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 3, Epoch [90/100], Train Loss: 0.003860, Val Loss: 0.000211
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 3, Epoch [91/100], Train Loss: 0.004043, Val Loss: 0.000201
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 3, Epoch [92/100], Train Loss: 0.003992, Val Loss: 0.000189
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 3, Epoch [93/100], Train Loss: 0.003765, Val Loss: 0.000198
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 3, Epoch [94/100], Train Loss: 0.003705, Val Loss: 0.000190
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 3, Epoch [95/100], Train Loss: 0.003893, Val Loss: 0.000199
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 3, Epoch [96/100], Train Loss: 0.003721, Val Loss: 0.000194
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 3, Epoch [97/100], Train Loss: 0.004098, Val Loss: 0.000185
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 3, Epoch [98/100], Train Loss: 0.004181, Val Loss: 0.000184
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 3, Epoch [99/100], Train Loss: 0.003465, Val Loss: 0.000182
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 3, Epoch [100/100], Train Loss: 0.003992, Val Loss: 0.000178
+Fold 4/10
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 4, Epoch [1/100], Train Loss: 0.696017, Val Loss: 0.055675
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 4, Epoch [2/100], Train Loss: 0.190394, Val Loss: 0.012648
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 4, Epoch [3/100], Train Loss: 0.068919, Val Loss: 0.005043
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 4, Epoch [4/100], Train Loss: 0.026156, Val Loss: 0.001781
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 4, Epoch [5/100], Train Loss: 0.011350, Val Loss: 0.000715
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 4, Epoch [6/100], Train Loss: 0.006479, Val Loss: 0.000362
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 4, Epoch [7/100], Train Loss: 0.006055, Val Loss: 0.000311
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 4, Epoch [8/100], Train Loss: 0.005256, Val Loss: 0.000368
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 4, Epoch [9/100], Train Loss: 0.005312, Val Loss: 0.000293
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 4, Epoch [10/100], Train Loss: 0.004707, Val Loss: 0.000269
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 4, Epoch [11/100], Train Loss: 0.005327, Val Loss: 0.000276
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 4, Epoch [12/100], Train Loss: 0.005019, Val Loss: 0.000289
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 4, Epoch [13/100], Train Loss: 0.005363, Val Loss: 0.000268
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 4, Epoch [14/100], Train Loss: 0.004474, Val Loss: 0.000264
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 4, Epoch [15/100], Train Loss: 0.004295, Val Loss: 0.000254
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 4, Epoch [16/100], Train Loss: 0.004519, Val Loss: 0.000259
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 4, Epoch [17/100], Train Loss: 0.004613, Val Loss: 0.000245
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 4, Epoch [18/100], Train Loss: 0.004714, Val Loss: 0.000246
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 4, Epoch [19/100], Train Loss: 0.004631, Val Loss: 0.000241
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 4, Epoch [20/100], Train Loss: 0.004915, Val Loss: 0.000243
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 4, Epoch [21/100], Train Loss: 0.004734, Val Loss: 0.000241
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 4, Epoch [22/100], Train Loss: 0.004452, Val Loss: 0.000247
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 4, Epoch [23/100], Train Loss: 0.004615, Val Loss: 0.000250
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 4, Epoch [24/100], Train Loss: 0.004589, Val Loss: 0.000239
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 4, Epoch [25/100], Train Loss: 0.003706, Val Loss: 0.000241
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 4, Epoch [26/100], Train Loss: 0.004353, Val Loss: 0.000241
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 4, Epoch [27/100], Train Loss: 0.004438, Val Loss: 0.000244
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 4, Epoch [28/100], Train Loss: 0.004777, Val Loss: 0.000259
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 4, Epoch [29/100], Train Loss: 0.004632, Val Loss: 0.000258
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 4, Epoch [30/100], Train Loss: 0.004421, Val Loss: 0.000230
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 4, Epoch [31/100], Train Loss: 0.004686, Val Loss: 0.000253
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 4, Epoch [32/100], Train Loss: 0.004268, Val Loss: 0.000236
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 4, Epoch [33/100], Train Loss: 0.004014, Val Loss: 0.000234
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 4, Epoch [34/100], Train Loss: 0.004853, Val Loss: 0.000226
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 4, Epoch [35/100], Train Loss: 0.004922, Val Loss: 0.000244
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 4, Epoch [36/100], Train Loss: 0.004333, Val Loss: 0.000218
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 4, Epoch [37/100], Train Loss: 0.004424, Val Loss: 0.000220
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 4, Epoch [38/100], Train Loss: 0.004251, Val Loss: 0.000258
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 4, Epoch [39/100], Train Loss: 0.004451, Val Loss: 0.000238
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 4, Epoch [40/100], Train Loss: 0.004668, Val Loss: 0.000230
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 4, Epoch [41/100], Train Loss: 0.004322, Val Loss: 0.000216
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 4, Epoch [42/100], Train Loss: 0.003649, Val Loss: 0.000218
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 4, Epoch [43/100], Train Loss: 0.003547, Val Loss: 0.000218
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 4, Epoch [44/100], Train Loss: 0.004452, Val Loss: 0.000220
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 4, Epoch [45/100], Train Loss: 0.004643, Val Loss: 0.000219
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 4, Epoch [46/100], Train Loss: 0.004369, Val Loss: 0.000223
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 4, Epoch [47/100], Train Loss: 0.004720, Val Loss: 0.000241
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 4, Epoch [48/100], Train Loss: 0.003950, Val Loss: 0.000216
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 4, Epoch [49/100], Train Loss: 0.004345, Val Loss: 0.000231
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 4, Epoch [50/100], Train Loss: 0.003864, Val Loss: 0.000213
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 4, Epoch [51/100], Train Loss: 0.003991, Val Loss: 0.000224
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 4, Epoch [52/100], Train Loss: 0.003686, Val Loss: 0.000218
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 4, Epoch [53/100], Train Loss: 0.003877, Val Loss: 0.000310
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 4, Epoch [54/100], Train Loss: 0.004452, Val Loss: 0.000221
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 4, Epoch [55/100], Train Loss: 0.004447, Val Loss: 0.000231
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 4, Epoch [56/100], Train Loss: 0.003787, Val Loss: 0.000216
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 4, Epoch [57/100], Train Loss: 0.004565, Val Loss: 0.000225
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 4, Epoch [58/100], Train Loss: 0.004613, Val Loss: 0.000269
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 4, Epoch [59/100], Train Loss: 0.004015, Val Loss: 0.000207
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 4, Epoch [60/100], Train Loss: 0.004094, Val Loss: 0.000253
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 4, Epoch [61/100], Train Loss: 0.004139, Val Loss: 0.000213
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 4, Epoch [62/100], Train Loss: 0.003789, Val Loss: 0.000219
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 4, Epoch [63/100], Train Loss: 0.004640, Val Loss: 0.000225
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 4, Epoch [64/100], Train Loss: 0.003992, Val Loss: 0.000212
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 4, Epoch [65/100], Train Loss: 0.004308, Val Loss: 0.000224
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 4, Epoch [66/100], Train Loss: 0.004016, Val Loss: 0.000259
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 4, Epoch [67/100], Train Loss: 0.004304, Val Loss: 0.000229
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 4, Epoch [68/100], Train Loss: 0.003972, Val Loss: 0.000226
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 4, Epoch [69/100], Train Loss: 0.004406, Val Loss: 0.000224
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 4, Epoch [70/100], Train Loss: 0.003931, Val Loss: 0.000220
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 4, Epoch [71/100], Train Loss: 0.004083, Val Loss: 0.000239
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 4, Epoch [72/100], Train Loss: 0.003683, Val Loss: 0.000244
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 4, Epoch [73/100], Train Loss: 0.003965, Val Loss: 0.000216
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 4, Epoch [74/100], Train Loss: 0.003910, Val Loss: 0.000233
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 4, Epoch [75/100], Train Loss: 0.004036, Val Loss: 0.000213
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 4, Epoch [76/100], Train Loss: 0.003831, Val Loss: 0.000214
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 4, Epoch [77/100], Train Loss: 0.004320, Val Loss: 0.000217
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 4, Epoch [78/100], Train Loss: 0.004266, Val Loss: 0.000205
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 4, Epoch [79/100], Train Loss: 0.003656, Val Loss: 0.000199
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 4, Epoch [80/100], Train Loss: 0.003966, Val Loss: 0.000230
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 4, Epoch [81/100], Train Loss: 0.004609, Val Loss: 0.000221
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 4, Epoch [82/100], Train Loss: 0.003923, Val Loss: 0.000213
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 4, Epoch [83/100], Train Loss: 0.003964, Val Loss: 0.000229
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 4, Epoch [84/100], Train Loss: 0.004317, Val Loss: 0.000217
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 4, Epoch [85/100], Train Loss: 0.004359, Val Loss: 0.000210
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 4, Epoch [86/100], Train Loss: 0.004337, Val Loss: 0.000256
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 4, Epoch [87/100], Train Loss: 0.003836, Val Loss: 0.000202
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 4, Epoch [88/100], Train Loss: 0.004019, Val Loss: 0.000207
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 4, Epoch [89/100], Train Loss: 0.004121, Val Loss: 0.000324
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 4, Epoch [90/100], Train Loss: 0.004550, Val Loss: 0.000226
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 4, Epoch [91/100], Train Loss: 0.003573, Val Loss: 0.000224
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 4, Epoch [92/100], Train Loss: 0.003832, Val Loss: 0.000207
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 4, Epoch [93/100], Train Loss: 0.004140, Val Loss: 0.000249
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 4, Epoch [94/100], Train Loss: 0.003957, Val Loss: 0.000217
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 4, Epoch [95/100], Train Loss: 0.003672, Val Loss: 0.000217
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 4, Epoch [96/100], Train Loss: 0.003969, Val Loss: 0.000204
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 4, Epoch [97/100], Train Loss: 0.004097, Val Loss: 0.000205
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 4, Epoch [98/100], Train Loss: 0.003617, Val Loss: 0.000250
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 4, Epoch [99/100], Train Loss: 0.004420, Val Loss: 0.000268
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 4, Epoch [100/100], Train Loss: 0.004086, Val Loss: 0.000200
+Fold 5/10
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 5, Epoch [1/100], Train Loss: 0.420710, Val Loss: 0.014884
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 5, Epoch [2/100], Train Loss: 0.042681, Val Loss: 0.001136
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 5, Epoch [3/100], Train Loss: 0.008855, Val Loss: 0.000406
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 5, Epoch [4/100], Train Loss: 0.005596, Val Loss: 0.000329
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 5, Epoch [5/100], Train Loss: 0.005639, Val Loss: 0.000291
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 5, Epoch [6/100], Train Loss: 0.004936, Val Loss: 0.000291
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 5, Epoch [7/100], Train Loss: 0.004933, Val Loss: 0.000296
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 5, Epoch [8/100], Train Loss: 0.005329, Val Loss: 0.000307
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 5, Epoch [9/100], Train Loss: 0.004393, Val Loss: 0.000294
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 5, Epoch [10/100], Train Loss: 0.004600, Val Loss: 0.000249
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 5, Epoch [11/100], Train Loss: 0.005291, Val Loss: 0.000243
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 5, Epoch [12/100], Train Loss: 0.004208, Val Loss: 0.000289
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 5, Epoch [13/100], Train Loss: 0.004363, Val Loss: 0.000263
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 5, Epoch [14/100], Train Loss: 0.004096, Val Loss: 0.000241
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 5, Epoch [15/100], Train Loss: 0.004148, Val Loss: 0.000211
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 5, Epoch [16/100], Train Loss: 0.004493, Val Loss: 0.000253
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 5, Epoch [17/100], Train Loss: 0.004108, Val Loss: 0.000218
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 5, Epoch [18/100], Train Loss: 0.004293, Val Loss: 0.000212
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 5, Epoch [19/100], Train Loss: 0.004359, Val Loss: 0.000245
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 5, Epoch [20/100], Train Loss: 0.004113, Val Loss: 0.000218
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 5, Epoch [21/100], Train Loss: 0.004083, Val Loss: 0.000279
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 5, Epoch [22/100], Train Loss: 0.004108, Val Loss: 0.000295
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 5, Epoch [23/100], Train Loss: 0.004277, Val Loss: 0.000237
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 5, Epoch [24/100], Train Loss: 0.004357, Val Loss: 0.000224
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 5, Epoch [25/100], Train Loss: 0.003850, Val Loss: 0.000216
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 5, Epoch [26/100], Train Loss: 0.004332, Val Loss: 0.000238
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 5, Epoch [27/100], Train Loss: 0.003957, Val Loss: 0.000214
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 5, Epoch [28/100], Train Loss: 0.004090, Val Loss: 0.000204
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 5, Epoch [29/100], Train Loss: 0.004712, Val Loss: 0.000228
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 5, Epoch [30/100], Train Loss: 0.003662, Val Loss: 0.000238
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 5, Epoch [31/100], Train Loss: 0.004048, Val Loss: 0.000245
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 5, Epoch [32/100], Train Loss: 0.004355, Val Loss: 0.000200
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 5, Epoch [33/100], Train Loss: 0.003876, Val Loss: 0.000306
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 5, Epoch [34/100], Train Loss: 0.004100, Val Loss: 0.000205
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 5, Epoch [35/100], Train Loss: 0.004333, Val Loss: 0.000243
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 5, Epoch [36/100], Train Loss: 0.004259, Val Loss: 0.000252
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 5, Epoch [37/100], Train Loss: 0.004251, Val Loss: 0.000250
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 5, Epoch [38/100], Train Loss: 0.004606, Val Loss: 0.000267
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 5, Epoch [39/100], Train Loss: 0.003812, Val Loss: 0.000203
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 5, Epoch [40/100], Train Loss: 0.003811, Val Loss: 0.000195
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 5, Epoch [41/100], Train Loss: 0.003893, Val Loss: 0.000220
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 5, Epoch [42/100], Train Loss: 0.003996, Val Loss: 0.000310
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 5, Epoch [43/100], Train Loss: 0.003952, Val Loss: 0.000266
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 5, Epoch [44/100], Train Loss: 0.003665, Val Loss: 0.000224
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 5, Epoch [45/100], Train Loss: 0.003742, Val Loss: 0.000218
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 5, Epoch [46/100], Train Loss: 0.003684, Val Loss: 0.000200
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 5, Epoch [47/100], Train Loss: 0.004381, Val Loss: 0.000219
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 5, Epoch [48/100], Train Loss: 0.004343, Val Loss: 0.000271
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 5, Epoch [49/100], Train Loss: 0.003779, Val Loss: 0.000349
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 5, Epoch [50/100], Train Loss: 0.004392, Val Loss: 0.000192
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 5, Epoch [51/100], Train Loss: 0.003980, Val Loss: 0.000188
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 5, Epoch [52/100], Train Loss: 0.004036, Val Loss: 0.000229
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 5, Epoch [53/100], Train Loss: 0.004344, Val Loss: 0.000289
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 5, Epoch [54/100], Train Loss: 0.004213, Val Loss: 0.000321
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 5, Epoch [55/100], Train Loss: 0.004584, Val Loss: 0.000314
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 5, Epoch [56/100], Train Loss: 0.004000, Val Loss: 0.000202
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 5, Epoch [57/100], Train Loss: 0.004257, Val Loss: 0.000221
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 5, Epoch [58/100], Train Loss: 0.004076, Val Loss: 0.000221
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 5, Epoch [59/100], Train Loss: 0.003856, Val Loss: 0.000222
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 5, Epoch [60/100], Train Loss: 0.004052, Val Loss: 0.000198
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 5, Epoch [61/100], Train Loss: 0.003884, Val Loss: 0.000215
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 5, Epoch [62/100], Train Loss: 0.003729, Val Loss: 0.000192
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 5, Epoch [63/100], Train Loss: 0.003802, Val Loss: 0.000185
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 5, Epoch [64/100], Train Loss: 0.004130, Val Loss: 0.000298
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 5, Epoch [65/100], Train Loss: 0.004152, Val Loss: 0.000205
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 5, Epoch [66/100], Train Loss: 0.003474, Val Loss: 0.000205
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 5, Epoch [67/100], Train Loss: 0.004473, Val Loss: 0.000198
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 5, Epoch [68/100], Train Loss: 0.003826, Val Loss: 0.000275
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 5, Epoch [69/100], Train Loss: 0.004211, Val Loss: 0.000237
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 5, Epoch [70/100], Train Loss: 0.004017, Val Loss: 0.000200
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 5, Epoch [71/100], Train Loss: 0.004330, Val Loss: 0.000207
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 5, Epoch [72/100], Train Loss: 0.003846, Val Loss: 0.000221
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 5, Epoch [73/100], Train Loss: 0.004004, Val Loss: 0.000232
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 5, Epoch [74/100], Train Loss: 0.004420, Val Loss: 0.000362
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 5, Epoch [75/100], Train Loss: 0.004405, Val Loss: 0.000192
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 5, Epoch [76/100], Train Loss: 0.003579, Val Loss: 0.000225
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 5, Epoch [77/100], Train Loss: 0.003689, Val Loss: 0.000224
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 5, Epoch [78/100], Train Loss: 0.004215, Val Loss: 0.000261
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 5, Epoch [79/100], Train Loss: 0.004093, Val Loss: 0.000281
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 5, Epoch [80/100], Train Loss: 0.003987, Val Loss: 0.000204
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 5, Epoch [81/100], Train Loss: 0.004261, Val Loss: 0.000203
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 5, Epoch [82/100], Train Loss: 0.004363, Val Loss: 0.000215
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 5, Epoch [83/100], Train Loss: 0.003875, Val Loss: 0.000264
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 5, Epoch [84/100], Train Loss: 0.004094, Val Loss: 0.000322
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 5, Epoch [85/100], Train Loss: 0.003600, Val Loss: 0.000191
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 5, Epoch [86/100], Train Loss: 0.003634, Val Loss: 0.000215
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 5, Epoch [87/100], Train Loss: 0.003933, Val Loss: 0.000238
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 5, Epoch [88/100], Train Loss: 0.003765, Val Loss: 0.000244
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 5, Epoch [89/100], Train Loss: 0.004052, Val Loss: 0.000207
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 5, Epoch [90/100], Train Loss: 0.004519, Val Loss: 0.000186
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 5, Epoch [91/100], Train Loss: 0.003354, Val Loss: 0.000188
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 5, Epoch [92/100], Train Loss: 0.003680, Val Loss: 0.000211
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 5, Epoch [93/100], Train Loss: 0.003603, Val Loss: 0.000185
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 5, Epoch [94/100], Train Loss: 0.004025, Val Loss: 0.000202
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 5, Epoch [95/100], Train Loss: 0.003586, Val Loss: 0.000177
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 5, Epoch [96/100], Train Loss: 0.003678, Val Loss: 0.000218
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 5, Epoch [97/100], Train Loss: 0.003418, Val Loss: 0.000195
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 5, Epoch [98/100], Train Loss: 0.003589, Val Loss: 0.000229
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 5, Epoch [99/100], Train Loss: 0.003449, Val Loss: 0.000262
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 5, Epoch [100/100], Train Loss: 0.003909, Val Loss: 0.000177
+Fold 6/10
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 6, Epoch [1/100], Train Loss: 0.418261, Val Loss: 0.012328
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 6, Epoch [2/100], Train Loss: 0.026003, Val Loss: 0.000849
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 6, Epoch [3/100], Train Loss: 0.006734, Val Loss: 0.000438
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 6, Epoch [4/100], Train Loss: 0.006495, Val Loss: 0.000330
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 6, Epoch [5/100], Train Loss: 0.005840, Val Loss: 0.000353
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 6, Epoch [6/100], Train Loss: 0.005641, Val Loss: 0.000296
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 6, Epoch [7/100], Train Loss: 0.005414, Val Loss: 0.000283
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 6, Epoch [8/100], Train Loss: 0.004841, Val Loss: 0.000275
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 6, Epoch [9/100], Train Loss: 0.004404, Val Loss: 0.000302
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 6, Epoch [10/100], Train Loss: 0.005213, Val Loss: 0.000263
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 6, Epoch [11/100], Train Loss: 0.004937, Val Loss: 0.000246
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 6, Epoch [12/100], Train Loss: 0.004602, Val Loss: 0.000302
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 6, Epoch [13/100], Train Loss: 0.004913, Val Loss: 0.000236
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 6, Epoch [14/100], Train Loss: 0.005238, Val Loss: 0.000284
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 6, Epoch [15/100], Train Loss: 0.004462, Val Loss: 0.000228
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 6, Epoch [16/100], Train Loss: 0.004866, Val Loss: 0.000297
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 6, Epoch [17/100], Train Loss: 0.004296, Val Loss: 0.000263
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 6, Epoch [18/100], Train Loss: 0.004480, Val Loss: 0.000261
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 6, Epoch [19/100], Train Loss: 0.004348, Val Loss: 0.000230
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 6, Epoch [20/100], Train Loss: 0.004503, Val Loss: 0.000233
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 6, Epoch [21/100], Train Loss: 0.004404, Val Loss: 0.000393
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 6, Epoch [22/100], Train Loss: 0.005099, Val Loss: 0.000228
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 6, Epoch [23/100], Train Loss: 0.004642, Val Loss: 0.000346
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 6, Epoch [24/100], Train Loss: 0.004646, Val Loss: 0.000263
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 6, Epoch [25/100], Train Loss: 0.005163, Val Loss: 0.000210
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 6, Epoch [26/100], Train Loss: 0.005020, Val Loss: 0.000210
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 6, Epoch [27/100], Train Loss: 0.004435, Val Loss: 0.000232
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 6, Epoch [28/100], Train Loss: 0.004150, Val Loss: 0.000204
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 6, Epoch [29/100], Train Loss: 0.004677, Val Loss: 0.000197
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 6, Epoch [30/100], Train Loss: 0.004147, Val Loss: 0.000200
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 6, Epoch [31/100], Train Loss: 0.004422, Val Loss: 0.000257
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 6, Epoch [32/100], Train Loss: 0.004071, Val Loss: 0.000216
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 6, Epoch [33/100], Train Loss: 0.004445, Val Loss: 0.000269
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 6, Epoch [34/100], Train Loss: 0.004330, Val Loss: 0.000219
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 6, Epoch [35/100], Train Loss: 0.004746, Val Loss: 0.000226
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 6, Epoch [36/100], Train Loss: 0.004023, Val Loss: 0.000214
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 6, Epoch [37/100], Train Loss: 0.004658, Val Loss: 0.000215
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 6, Epoch [38/100], Train Loss: 0.004337, Val Loss: 0.000229
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 6, Epoch [39/100], Train Loss: 0.004183, Val Loss: 0.000215
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 6, Epoch [40/100], Train Loss: 0.004182, Val Loss: 0.000188
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 6, Epoch [41/100], Train Loss: 0.004558, Val Loss: 0.000202
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 6, Epoch [42/100], Train Loss: 0.003972, Val Loss: 0.000232
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 6, Epoch [43/100], Train Loss: 0.004142, Val Loss: 0.000232
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 6, Epoch [44/100], Train Loss: 0.004352, Val Loss: 0.000239
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 6, Epoch [45/100], Train Loss: 0.004183, Val Loss: 0.000207
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 6, Epoch [46/100], Train Loss: 0.003861, Val Loss: 0.000205
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 6, Epoch [47/100], Train Loss: 0.004673, Val Loss: 0.000216
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 6, Epoch [48/100], Train Loss: 0.004136, Val Loss: 0.000212
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 6, Epoch [49/100], Train Loss: 0.004621, Val Loss: 0.000354
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 6, Epoch [50/100], Train Loss: 0.004115, Val Loss: 0.000196
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 6, Epoch [51/100], Train Loss: 0.004277, Val Loss: 0.000194
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 6, Epoch [52/100], Train Loss: 0.004147, Val Loss: 0.000194
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 6, Epoch [53/100], Train Loss: 0.004119, Val Loss: 0.000214
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 6, Epoch [54/100], Train Loss: 0.004255, Val Loss: 0.000194
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 6, Epoch [55/100], Train Loss: 0.003655, Val Loss: 0.000204
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 6, Epoch [56/100], Train Loss: 0.004180, Val Loss: 0.000207
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 6, Epoch [57/100], Train Loss: 0.003543, Val Loss: 0.000228
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 6, Epoch [58/100], Train Loss: 0.003990, Val Loss: 0.000182
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 6, Epoch [59/100], Train Loss: 0.004341, Val Loss: 0.000224
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 6, Epoch [60/100], Train Loss: 0.004293, Val Loss: 0.000181
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 6, Epoch [61/100], Train Loss: 0.003509, Val Loss: 0.000200
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 6, Epoch [62/100], Train Loss: 0.003728, Val Loss: 0.000194
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 6, Epoch [63/100], Train Loss: 0.003656, Val Loss: 0.000184
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 6, Epoch [64/100], Train Loss: 0.003932, Val Loss: 0.000179
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 6, Epoch [65/100], Train Loss: 0.004039, Val Loss: 0.000190
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 6, Epoch [66/100], Train Loss: 0.004178, Val Loss: 0.000182
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 6, Epoch [67/100], Train Loss: 0.003874, Val Loss: 0.000198
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 6, Epoch [68/100], Train Loss: 0.004299, Val Loss: 0.000237
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 6, Epoch [69/100], Train Loss: 0.003641, Val Loss: 0.000189
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 6, Epoch [70/100], Train Loss: 0.004043, Val Loss: 0.000238
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 6, Epoch [71/100], Train Loss: 0.003939, Val Loss: 0.000233
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 6, Epoch [72/100], Train Loss: 0.003474, Val Loss: 0.000224
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 6, Epoch [73/100], Train Loss: 0.004124, Val Loss: 0.000204
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 6, Epoch [74/100], Train Loss: 0.004289, Val Loss: 0.000242
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 6, Epoch [75/100], Train Loss: 0.003946, Val Loss: 0.000200
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 6, Epoch [76/100], Train Loss: 0.004098, Val Loss: 0.000251
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 6, Epoch [77/100], Train Loss: 0.003902, Val Loss: 0.000182
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 6, Epoch [78/100], Train Loss: 0.004185, Val Loss: 0.000204
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 6, Epoch [79/100], Train Loss: 0.003788, Val Loss: 0.000180
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 6, Epoch [80/100], Train Loss: 0.004203, Val Loss: 0.000227
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 6, Epoch [81/100], Train Loss: 0.004193, Val Loss: 0.000248
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 6, Epoch [82/100], Train Loss: 0.004059, Val Loss: 0.000197
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 6, Epoch [83/100], Train Loss: 0.003871, Val Loss: 0.000255
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 6, Epoch [84/100], Train Loss: 0.004173, Val Loss: 0.000195
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 6, Epoch [85/100], Train Loss: 0.003851, Val Loss: 0.000256
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 6, Epoch [86/100], Train Loss: 0.003971, Val Loss: 0.000183
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 6, Epoch [87/100], Train Loss: 0.004291, Val Loss: 0.000178
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 6, Epoch [88/100], Train Loss: 0.003702, Val Loss: 0.000178
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 6, Epoch [89/100], Train Loss: 0.004429, Val Loss: 0.000267
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 6, Epoch [90/100], Train Loss: 0.004289, Val Loss: 0.000188
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 6, Epoch [91/100], Train Loss: 0.003777, Val Loss: 0.000172
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 6, Epoch [92/100], Train Loss: 0.003490, Val Loss: 0.000179
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 6, Epoch [93/100], Train Loss: 0.003758, Val Loss: 0.000182
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 6, Epoch [94/100], Train Loss: 0.003870, Val Loss: 0.000177
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 6, Epoch [95/100], Train Loss: 0.003584, Val Loss: 0.000197
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 6, Epoch [96/100], Train Loss: 0.003817, Val Loss: 0.000174
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 6, Epoch [97/100], Train Loss: 0.003773, Val Loss: 0.000198
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 6, Epoch [98/100], Train Loss: 0.003457, Val Loss: 0.000177
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 6, Epoch [99/100], Train Loss: 0.003679, Val Loss: 0.000192
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 6, Epoch [100/100], Train Loss: 0.003826, Val Loss: 0.000220
+Fold 7/10
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 7, Epoch [1/100], Train Loss: 0.463980, Val Loss: 0.011768
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 7, Epoch [2/100], Train Loss: 0.050873, Val Loss: 0.001817
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 7, Epoch [3/100], Train Loss: 0.011403, Val Loss: 0.000450
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 7, Epoch [4/100], Train Loss: 0.006457, Val Loss: 0.000343
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 7, Epoch [5/100], Train Loss: 0.005800, Val Loss: 0.000373
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 7, Epoch [6/100], Train Loss: 0.005043, Val Loss: 0.000262
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 7, Epoch [7/100], Train Loss: 0.004777, Val Loss: 0.000247
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 7, Epoch [8/100], Train Loss: 0.005697, Val Loss: 0.000279
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 7, Epoch [9/100], Train Loss: 0.004742, Val Loss: 0.000238
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 7, Epoch [10/100], Train Loss: 0.004929, Val Loss: 0.000232
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 7, Epoch [11/100], Train Loss: 0.004387, Val Loss: 0.000252
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 7, Epoch [12/100], Train Loss: 0.004966, Val Loss: 0.000241
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 7, Epoch [13/100], Train Loss: 0.005162, Val Loss: 0.000216
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 7, Epoch [14/100], Train Loss: 0.004859, Val Loss: 0.000241
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 7, Epoch [15/100], Train Loss: 0.004364, Val Loss: 0.000232
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 7, Epoch [16/100], Train Loss: 0.005234, Val Loss: 0.000235
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 7, Epoch [17/100], Train Loss: 0.004448, Val Loss: 0.000204
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 7, Epoch [18/100], Train Loss: 0.004667, Val Loss: 0.000196
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 7, Epoch [19/100], Train Loss: 0.004542, Val Loss: 0.000221
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 7, Epoch [20/100], Train Loss: 0.004933, Val Loss: 0.000204
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 7, Epoch [21/100], Train Loss: 0.004068, Val Loss: 0.000199
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 7, Epoch [22/100], Train Loss: 0.004222, Val Loss: 0.000232
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 7, Epoch [23/100], Train Loss: 0.004390, Val Loss: 0.000190
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 7, Epoch [24/100], Train Loss: 0.004104, Val Loss: 0.000210
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 7, Epoch [25/100], Train Loss: 0.004286, Val Loss: 0.000255
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 7, Epoch [26/100], Train Loss: 0.004509, Val Loss: 0.000186
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 7, Epoch [27/100], Train Loss: 0.004409, Val Loss: 0.000263
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 7, Epoch [28/100], Train Loss: 0.004033, Val Loss: 0.000201
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 7, Epoch [29/100], Train Loss: 0.004449, Val Loss: 0.000242
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 7, Epoch [30/100], Train Loss: 0.004378, Val Loss: 0.000230
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 7, Epoch [31/100], Train Loss: 0.004527, Val Loss: 0.000200
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 7, Epoch [32/100], Train Loss: 0.004331, Val Loss: 0.000225
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 7, Epoch [33/100], Train Loss: 0.004213, Val Loss: 0.000215
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 7, Epoch [34/100], Train Loss: 0.003928, Val Loss: 0.000258
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 7, Epoch [35/100], Train Loss: 0.004132, Val Loss: 0.000199
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 7, Epoch [36/100], Train Loss: 0.004605, Val Loss: 0.000191
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 7, Epoch [37/100], Train Loss: 0.004672, Val Loss: 0.000219
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 7, Epoch [38/100], Train Loss: 0.004486, Val Loss: 0.000206
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 7, Epoch [39/100], Train Loss: 0.004667, Val Loss: 0.000196
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 7, Epoch [40/100], Train Loss: 0.004550, Val Loss: 0.000182
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 7, Epoch [41/100], Train Loss: 0.004657, Val Loss: 0.000207
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 7, Epoch [42/100], Train Loss: 0.004450, Val Loss: 0.000193
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 7, Epoch [43/100], Train Loss: 0.004396, Val Loss: 0.000181
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 7, Epoch [44/100], Train Loss: 0.004427, Val Loss: 0.000239
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 7, Epoch [45/100], Train Loss: 0.003865, Val Loss: 0.000227
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 7, Epoch [46/100], Train Loss: 0.004563, Val Loss: 0.000266
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 7, Epoch [47/100], Train Loss: 0.004237, Val Loss: 0.000180
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 7, Epoch [48/100], Train Loss: 0.004373, Val Loss: 0.000205
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 7, Epoch [49/100], Train Loss: 0.004539, Val Loss: 0.000185
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 7, Epoch [50/100], Train Loss: 0.004079, Val Loss: 0.000176
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 7, Epoch [51/100], Train Loss: 0.004845, Val Loss: 0.000225
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 7, Epoch [52/100], Train Loss: 0.004416, Val Loss: 0.000201
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 7, Epoch [53/100], Train Loss: 0.004042, Val Loss: 0.000238
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 7, Epoch [54/100], Train Loss: 0.004216, Val Loss: 0.000185
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 7, Epoch [55/100], Train Loss: 0.004079, Val Loss: 0.000185
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 7, Epoch [56/100], Train Loss: 0.004357, Val Loss: 0.000178
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 7, Epoch [57/100], Train Loss: 0.004779, Val Loss: 0.000196
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 7, Epoch [58/100], Train Loss: 0.004625, Val Loss: 0.000253
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 7, Epoch [59/100], Train Loss: 0.004410, Val Loss: 0.000174
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 7, Epoch [60/100], Train Loss: 0.004050, Val Loss: 0.000179
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 7, Epoch [61/100], Train Loss: 0.004482, Val Loss: 0.000217
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 7, Epoch [62/100], Train Loss: 0.004407, Val Loss: 0.000180
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 7, Epoch [63/100], Train Loss: 0.003934, Val Loss: 0.000223
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 7, Epoch [64/100], Train Loss: 0.003737, Val Loss: 0.000197
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 7, Epoch [65/100], Train Loss: 0.004411, Val Loss: 0.000205
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 7, Epoch [66/100], Train Loss: 0.003848, Val Loss: 0.000178
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 7, Epoch [67/100], Train Loss: 0.004463, Val Loss: 0.000238
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 7, Epoch [68/100], Train Loss: 0.004244, Val Loss: 0.000184
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 7, Epoch [69/100], Train Loss: 0.004446, Val Loss: 0.000255
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 7, Epoch [70/100], Train Loss: 0.003826, Val Loss: 0.000200
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 7, Epoch [71/100], Train Loss: 0.004829, Val Loss: 0.000176
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 7, Epoch [72/100], Train Loss: 0.003847, Val Loss: 0.000184
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 7, Epoch [73/100], Train Loss: 0.004068, Val Loss: 0.000187
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 7, Epoch [74/100], Train Loss: 0.004263, Val Loss: 0.000210
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 7, Epoch [75/100], Train Loss: 0.004102, Val Loss: 0.000187
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 7, Epoch [76/100], Train Loss: 0.004021, Val Loss: 0.000250
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 7, Epoch [77/100], Train Loss: 0.004127, Val Loss: 0.000212
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 7, Epoch [78/100], Train Loss: 0.003969, Val Loss: 0.000182
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 7, Epoch [79/100], Train Loss: 0.004419, Val Loss: 0.000184
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 7, Epoch [80/100], Train Loss: 0.003825, Val Loss: 0.000235
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 7, Epoch [81/100], Train Loss: 0.004362, Val Loss: 0.000178
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 7, Epoch [82/100], Train Loss: 0.004104, Val Loss: 0.000167
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 7, Epoch [83/100], Train Loss: 0.004002, Val Loss: 0.000172
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 7, Epoch [84/100], Train Loss: 0.004091, Val Loss: 0.000191
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 7, Epoch [85/100], Train Loss: 0.004238, Val Loss: 0.000170
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 7, Epoch [86/100], Train Loss: 0.003817, Val Loss: 0.000168
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 7, Epoch [87/100], Train Loss: 0.003919, Val Loss: 0.000191
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 7, Epoch [88/100], Train Loss: 0.003491, Val Loss: 0.000165
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 7, Epoch [89/100], Train Loss: 0.003668, Val Loss: 0.000168
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 7, Epoch [90/100], Train Loss: 0.003629, Val Loss: 0.000166
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 7, Epoch [91/100], Train Loss: 0.003855, Val Loss: 0.000165
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 7, Epoch [92/100], Train Loss: 0.003581, Val Loss: 0.000183
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 7, Epoch [93/100], Train Loss: 0.003713, Val Loss: 0.000174
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 7, Epoch [94/100], Train Loss: 0.003552, Val Loss: 0.000161
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 7, Epoch [95/100], Train Loss: 0.003583, Val Loss: 0.000179
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 7, Epoch [96/100], Train Loss: 0.003854, Val Loss: 0.000198
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 7, Epoch [97/100], Train Loss: 0.004100, Val Loss: 0.000188
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 7, Epoch [98/100], Train Loss: 0.003500, Val Loss: 0.000191
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 7, Epoch [99/100], Train Loss: 0.003613, Val Loss: 0.000178
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 7, Epoch [100/100], Train Loss: 0.003902, Val Loss: 0.000189
+Fold 8/10
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 8, Epoch [1/100], Train Loss: 0.582432, Val Loss: 0.021058
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 8, Epoch [2/100], Train Loss: 0.098345, Val Loss: 0.005296
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 8, Epoch [3/100], Train Loss: 0.029188, Val Loss: 0.001563
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 8, Epoch [4/100], Train Loss: 0.011899, Val Loss: 0.000525
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 8, Epoch [5/100], Train Loss: 0.006636, Val Loss: 0.000393
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 8, Epoch [6/100], Train Loss: 0.004920, Val Loss: 0.000282
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 8, Epoch [7/100], Train Loss: 0.005735, Val Loss: 0.000320
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 8, Epoch [8/100], Train Loss: 0.005068, Val Loss: 0.000256
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 8, Epoch [9/100], Train Loss: 0.005235, Val Loss: 0.000248
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 8, Epoch [10/100], Train Loss: 0.005043, Val Loss: 0.000246
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 8, Epoch [11/100], Train Loss: 0.004749, Val Loss: 0.000236
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 8, Epoch [12/100], Train Loss: 0.004681, Val Loss: 0.000293
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 8, Epoch [13/100], Train Loss: 0.004662, Val Loss: 0.000252
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 8, Epoch [14/100], Train Loss: 0.004740, Val Loss: 0.000217
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 8, Epoch [15/100], Train Loss: 0.004753, Val Loss: 0.000228
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 8, Epoch [16/100], Train Loss: 0.005058, Val Loss: 0.000234
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 8, Epoch [17/100], Train Loss: 0.004999, Val Loss: 0.000249
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 8, Epoch [18/100], Train Loss: 0.004000, Val Loss: 0.000217
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 8, Epoch [19/100], Train Loss: 0.004659, Val Loss: 0.000297
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 8, Epoch [20/100], Train Loss: 0.004505, Val Loss: 0.000223
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 8, Epoch [21/100], Train Loss: 0.004925, Val Loss: 0.000264
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 8, Epoch [22/100], Train Loss: 0.004272, Val Loss: 0.000214
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 8, Epoch [23/100], Train Loss: 0.004640, Val Loss: 0.000217
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 8, Epoch [24/100], Train Loss: 0.004840, Val Loss: 0.000197
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 8, Epoch [25/100], Train Loss: 0.004825, Val Loss: 0.000215
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 8, Epoch [26/100], Train Loss: 0.004615, Val Loss: 0.000213
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 8, Epoch [27/100], Train Loss: 0.004383, Val Loss: 0.000197
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 8, Epoch [28/100], Train Loss: 0.004875, Val Loss: 0.000217
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 8, Epoch [29/100], Train Loss: 0.004891, Val Loss: 0.000201
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 8, Epoch [30/100], Train Loss: 0.004237, Val Loss: 0.000194
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 8, Epoch [31/100], Train Loss: 0.004506, Val Loss: 0.000211
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 8, Epoch [32/100], Train Loss: 0.004338, Val Loss: 0.000200
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 8, Epoch [33/100], Train Loss: 0.004969, Val Loss: 0.000206
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 8, Epoch [34/100], Train Loss: 0.004073, Val Loss: 0.000218
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 8, Epoch [35/100], Train Loss: 0.004577, Val Loss: 0.000192
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 8, Epoch [36/100], Train Loss: 0.005465, Val Loss: 0.000215
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 8, Epoch [37/100], Train Loss: 0.005167, Val Loss: 0.000208
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 8, Epoch [38/100], Train Loss: 0.004699, Val Loss: 0.000213
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 8, Epoch [39/100], Train Loss: 0.004430, Val Loss: 0.000205
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 8, Epoch [40/100], Train Loss: 0.004001, Val Loss: 0.000204
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 8, Epoch [41/100], Train Loss: 0.004571, Val Loss: 0.000194
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 8, Epoch [42/100], Train Loss: 0.004292, Val Loss: 0.000214
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 8, Epoch [43/100], Train Loss: 0.003622, Val Loss: 0.000184
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 8, Epoch [44/100], Train Loss: 0.004264, Val Loss: 0.000214
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 8, Epoch [45/100], Train Loss: 0.004735, Val Loss: 0.000223
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 8, Epoch [46/100], Train Loss: 0.004050, Val Loss: 0.000219
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 8, Epoch [47/100], Train Loss: 0.005242, Val Loss: 0.000203
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 8, Epoch [48/100], Train Loss: 0.004429, Val Loss: 0.000204
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 8, Epoch [49/100], Train Loss: 0.004159, Val Loss: 0.000216
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 8, Epoch [50/100], Train Loss: 0.004118, Val Loss: 0.000180
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 8, Epoch [51/100], Train Loss: 0.004311, Val Loss: 0.000191
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 8, Epoch [52/100], Train Loss: 0.004602, Val Loss: 0.000195
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 8, Epoch [53/100], Train Loss: 0.003775, Val Loss: 0.000177
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 8, Epoch [54/100], Train Loss: 0.003822, Val Loss: 0.000190
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 8, Epoch [55/100], Train Loss: 0.004126, Val Loss: 0.000185
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 8, Epoch [56/100], Train Loss: 0.004333, Val Loss: 0.000178
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 8, Epoch [57/100], Train Loss: 0.004179, Val Loss: 0.000177
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 8, Epoch [58/100], Train Loss: 0.004332, Val Loss: 0.000180
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 8, Epoch [59/100], Train Loss: 0.004423, Val Loss: 0.000180
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 8, Epoch [60/100], Train Loss: 0.004625, Val Loss: 0.000191
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 8, Epoch [61/100], Train Loss: 0.004185, Val Loss: 0.000181
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 8, Epoch [62/100], Train Loss: 0.004839, Val Loss: 0.000197
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 8, Epoch [63/100], Train Loss: 0.004172, Val Loss: 0.000185
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 8, Epoch [64/100], Train Loss: 0.004184, Val Loss: 0.000198
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 8, Epoch [65/100], Train Loss: 0.004109, Val Loss: 0.000195
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 8, Epoch [66/100], Train Loss: 0.004157, Val Loss: 0.000178
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 8, Epoch [67/100], Train Loss: 0.003758, Val Loss: 0.000192
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 8, Epoch [68/100], Train Loss: 0.003834, Val Loss: 0.000170
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 8, Epoch [69/100], Train Loss: 0.003754, Val Loss: 0.000175
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 8, Epoch [70/100], Train Loss: 0.004087, Val Loss: 0.000179
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 8, Epoch [71/100], Train Loss: 0.004234, Val Loss: 0.000179
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 8, Epoch [72/100], Train Loss: 0.004059, Val Loss: 0.000197
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 8, Epoch [73/100], Train Loss: 0.004698, Val Loss: 0.000187
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 8, Epoch [74/100], Train Loss: 0.003862, Val Loss: 0.000210
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 8, Epoch [75/100], Train Loss: 0.003973, Val Loss: 0.000228
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 8, Epoch [76/100], Train Loss: 0.004379, Val Loss: 0.000183
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 8, Epoch [77/100], Train Loss: 0.003757, Val Loss: 0.000175
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 8, Epoch [78/100], Train Loss: 0.004076, Val Loss: 0.000175
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 8, Epoch [79/100], Train Loss: 0.004148, Val Loss: 0.000203
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 8, Epoch [80/100], Train Loss: 0.004109, Val Loss: 0.000192
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 8, Epoch [81/100], Train Loss: 0.003997, Val Loss: 0.000183
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 8, Epoch [82/100], Train Loss: 0.003657, Val Loss: 0.000182
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 8, Epoch [83/100], Train Loss: 0.004025, Val Loss: 0.000232
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 8, Epoch [84/100], Train Loss: 0.003684, Val Loss: 0.000227
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 8, Epoch [85/100], Train Loss: 0.004263, Val Loss: 0.000199
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 8, Epoch [86/100], Train Loss: 0.004156, Val Loss: 0.000192
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 8, Epoch [87/100], Train Loss: 0.004549, Val Loss: 0.000181
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 8, Epoch [88/100], Train Loss: 0.003842, Val Loss: 0.000171
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 8, Epoch [89/100], Train Loss: 0.004202, Val Loss: 0.000175
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 8, Epoch [90/100], Train Loss: 0.004130, Val Loss: 0.000172
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 8, Epoch [91/100], Train Loss: 0.004025, Val Loss: 0.000181
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 8, Epoch [92/100], Train Loss: 0.003601, Val Loss: 0.000205
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 8, Epoch [93/100], Train Loss: 0.003809, Val Loss: 0.000168
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 8, Epoch [94/100], Train Loss: 0.003661, Val Loss: 0.000168
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 8, Epoch [95/100], Train Loss: 0.003631, Val Loss: 0.000167
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 8, Epoch [96/100], Train Loss: 0.004064, Val Loss: 0.000182
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 8, Epoch [97/100], Train Loss: 0.003978, Val Loss: 0.000189
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 8, Epoch [98/100], Train Loss: 0.003559, Val Loss: 0.000169
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 8, Epoch [99/100], Train Loss: 0.003472, Val Loss: 0.000178
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 8, Epoch [100/100], Train Loss: 0.004081, Val Loss: 0.000169
+Fold 9/10
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 9, Epoch [1/100], Train Loss: 0.114640, Val Loss: 0.000882
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 9, Epoch [2/100], Train Loss: 0.006964, Val Loss: 0.000382
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 9, Epoch [3/100], Train Loss: 0.006185, Val Loss: 0.000334
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 9, Epoch [4/100], Train Loss: 0.005776, Val Loss: 0.000320
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 9, Epoch [5/100], Train Loss: 0.005437, Val Loss: 0.000322
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 9, Epoch [6/100], Train Loss: 0.004802, Val Loss: 0.000262
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 9, Epoch [7/100], Train Loss: 0.004798, Val Loss: 0.000268
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 9, Epoch [8/100], Train Loss: 0.004973, Val Loss: 0.000301
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 9, Epoch [9/100], Train Loss: 0.004405, Val Loss: 0.000290
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 9, Epoch [10/100], Train Loss: 0.004631, Val Loss: 0.000243
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 9, Epoch [11/100], Train Loss: 0.005031, Val Loss: 0.000251
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 9, Epoch [12/100], Train Loss: 0.004686, Val Loss: 0.000246
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 9, Epoch [13/100], Train Loss: 0.004560, Val Loss: 0.000215
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 9, Epoch [14/100], Train Loss: 0.004213, Val Loss: 0.000244
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 9, Epoch [15/100], Train Loss: 0.004841, Val Loss: 0.000229
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 9, Epoch [16/100], Train Loss: 0.004731, Val Loss: 0.000232
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 9, Epoch [17/100], Train Loss: 0.004139, Val Loss: 0.000218
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 9, Epoch [18/100], Train Loss: 0.004237, Val Loss: 0.000230
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 9, Epoch [19/100], Train Loss: 0.003991, Val Loss: 0.000201
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 9, Epoch [20/100], Train Loss: 0.004994, Val Loss: 0.000206
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 9, Epoch [21/100], Train Loss: 0.004870, Val Loss: 0.000313
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 9, Epoch [22/100], Train Loss: 0.004481, Val Loss: 0.000208
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 9, Epoch [23/100], Train Loss: 0.004348, Val Loss: 0.000271
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 9, Epoch [24/100], Train Loss: 0.004350, Val Loss: 0.000224
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 9, Epoch [25/100], Train Loss: 0.004763, Val Loss: 0.000268
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 9, Epoch [26/100], Train Loss: 0.004325, Val Loss: 0.000212
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 9, Epoch [27/100], Train Loss: 0.004136, Val Loss: 0.000197
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 9, Epoch [28/100], Train Loss: 0.004293, Val Loss: 0.000192
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 9, Epoch [29/100], Train Loss: 0.004184, Val Loss: 0.000285
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 9, Epoch [30/100], Train Loss: 0.004205, Val Loss: 0.000209
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 9, Epoch [31/100], Train Loss: 0.004439, Val Loss: 0.000206
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 9, Epoch [32/100], Train Loss: 0.004783, Val Loss: 0.000211
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 9, Epoch [33/100], Train Loss: 0.004072, Val Loss: 0.000205
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 9, Epoch [34/100], Train Loss: 0.003979, Val Loss: 0.000244
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 9, Epoch [35/100], Train Loss: 0.004106, Val Loss: 0.000231
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 9, Epoch [36/100], Train Loss: 0.004074, Val Loss: 0.000195
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 9, Epoch [37/100], Train Loss: 0.004731, Val Loss: 0.000204
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 9, Epoch [38/100], Train Loss: 0.004479, Val Loss: 0.000268
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 9, Epoch [39/100], Train Loss: 0.004214, Val Loss: 0.000195
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 9, Epoch [40/100], Train Loss: 0.003721, Val Loss: 0.000194
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 9, Epoch [41/100], Train Loss: 0.004342, Val Loss: 0.000222
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 9, Epoch [42/100], Train Loss: 0.004098, Val Loss: 0.000186
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 9, Epoch [43/100], Train Loss: 0.004460, Val Loss: 0.000208
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 9, Epoch [44/100], Train Loss: 0.004184, Val Loss: 0.000184
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 9, Epoch [45/100], Train Loss: 0.004179, Val Loss: 0.000211
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 9, Epoch [46/100], Train Loss: 0.004067, Val Loss: 0.000243
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 9, Epoch [47/100], Train Loss: 0.004198, Val Loss: 0.000185
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 9, Epoch [48/100], Train Loss: 0.004186, Val Loss: 0.000180
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 9, Epoch [49/100], Train Loss: 0.003759, Val Loss: 0.000197
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 9, Epoch [50/100], Train Loss: 0.003923, Val Loss: 0.000226
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 9, Epoch [51/100], Train Loss: 0.004391, Val Loss: 0.000200
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 9, Epoch [52/100], Train Loss: 0.004090, Val Loss: 0.000206
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 9, Epoch [53/100], Train Loss: 0.004419, Val Loss: 0.000183
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 9, Epoch [54/100], Train Loss: 0.003797, Val Loss: 0.000184
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 9, Epoch [55/100], Train Loss: 0.004199, Val Loss: 0.000195
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 9, Epoch [56/100], Train Loss: 0.004154, Val Loss: 0.000245
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 9, Epoch [57/100], Train Loss: 0.004545, Val Loss: 0.000197
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 9, Epoch [58/100], Train Loss: 0.004074, Val Loss: 0.000181
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 9, Epoch [59/100], Train Loss: 0.004440, Val Loss: 0.000202
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 9, Epoch [60/100], Train Loss: 0.003960, Val Loss: 0.000259
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 9, Epoch [61/100], Train Loss: 0.004734, Val Loss: 0.000265
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 9, Epoch [62/100], Train Loss: 0.004396, Val Loss: 0.000220
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 9, Epoch [63/100], Train Loss: 0.004102, Val Loss: 0.000181
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 9, Epoch [64/100], Train Loss: 0.003774, Val Loss: 0.000190
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 9, Epoch [65/100], Train Loss: 0.004224, Val Loss: 0.000180
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 9, Epoch [66/100], Train Loss: 0.004016, Val Loss: 0.000190
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 9, Epoch [67/100], Train Loss: 0.004519, Val Loss: 0.000233
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 9, Epoch [68/100], Train Loss: 0.003843, Val Loss: 0.000221
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 9, Epoch [69/100], Train Loss: 0.003883, Val Loss: 0.000189
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 9, Epoch [70/100], Train Loss: 0.003757, Val Loss: 0.000203
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 9, Epoch [71/100], Train Loss: 0.003679, Val Loss: 0.000169
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 9, Epoch [72/100], Train Loss: 0.003605, Val Loss: 0.000195
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 9, Epoch [73/100], Train Loss: 0.003781, Val Loss: 0.000210
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 9, Epoch [74/100], Train Loss: 0.003813, Val Loss: 0.000194
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 9, Epoch [75/100], Train Loss: 0.003431, Val Loss: 0.000171
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 9, Epoch [76/100], Train Loss: 0.003601, Val Loss: 0.000172
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 9, Epoch [77/100], Train Loss: 0.003633, Val Loss: 0.000176
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 9, Epoch [78/100], Train Loss: 0.003917, Val Loss: 0.000234
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 9, Epoch [79/100], Train Loss: 0.003504, Val Loss: 0.000183
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 9, Epoch [80/100], Train Loss: 0.003758, Val Loss: 0.000173
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 9, Epoch [81/100], Train Loss: 0.003624, Val Loss: 0.000171
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 9, Epoch [82/100], Train Loss: 0.003252, Val Loss: 0.000180
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 9, Epoch [83/100], Train Loss: 0.003784, Val Loss: 0.000177
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 9, Epoch [84/100], Train Loss: 0.004141, Val Loss: 0.000174
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 9, Epoch [85/100], Train Loss: 0.004094, Val Loss: 0.000217
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 9, Epoch [86/100], Train Loss: 0.003838, Val Loss: 0.000173
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 9, Epoch [87/100], Train Loss: 0.003894, Val Loss: 0.000176
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 9, Epoch [88/100], Train Loss: 0.003988, Val Loss: 0.000176
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 9, Epoch [89/100], Train Loss: 0.003909, Val Loss: 0.000179
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 9, Epoch [90/100], Train Loss: 0.003736, Val Loss: 0.000187
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 9, Epoch [91/100], Train Loss: 0.003960, Val Loss: 0.000167
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 9, Epoch [92/100], Train Loss: 0.003807, Val Loss: 0.000180
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 9, Epoch [93/100], Train Loss: 0.003759, Val Loss: 0.000168
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 9, Epoch [94/100], Train Loss: 0.004010, Val Loss: 0.000172
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 9, Epoch [95/100], Train Loss: 0.003818, Val Loss: 0.000184
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 9, Epoch [96/100], Train Loss: 0.003803, Val Loss: 0.000189
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 9, Epoch [97/100], Train Loss: 0.004222, Val Loss: 0.000177
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 9, Epoch [98/100], Train Loss: 0.003924, Val Loss: 0.000271
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 9, Epoch [99/100], Train Loss: 0.003972, Val Loss: 0.000174
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 9, Epoch [100/100], Train Loss: 0.003653, Val Loss: 0.000183
+Fold 10/10
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 10, Epoch [1/100], Train Loss: 0.038228, Val Loss: 0.001050
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 10, Epoch [2/100], Train Loss: 0.005762, Val Loss: 0.000353
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 10, Epoch [3/100], Train Loss: 0.005743, Val Loss: 0.000327
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 10, Epoch [4/100], Train Loss: 0.005051, Val Loss: 0.000299
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 10, Epoch [5/100], Train Loss: 0.004810, Val Loss: 0.000291
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 10, Epoch [6/100], Train Loss: 0.004707, Val Loss: 0.000279
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 10, Epoch [7/100], Train Loss: 0.004711, Val Loss: 0.000307
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 10, Epoch [8/100], Train Loss: 0.004950, Val Loss: 0.000339
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 10, Epoch [9/100], Train Loss: 0.004156, Val Loss: 0.000262
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 10, Epoch [10/100], Train Loss: 0.005386, Val Loss: 0.000352
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 10, Epoch [11/100], Train Loss: 0.004866, Val Loss: 0.000270
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 10, Epoch [12/100], Train Loss: 0.004450, Val Loss: 0.000285
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 10, Epoch [13/100], Train Loss: 0.004348, Val Loss: 0.000250
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 10, Epoch [14/100], Train Loss: 0.003892, Val Loss: 0.000255
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 10, Epoch [15/100], Train Loss: 0.004832, Val Loss: 0.000298
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 10, Epoch [16/100], Train Loss: 0.004506, Val Loss: 0.000256
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 10, Epoch [17/100], Train Loss: 0.004400, Val Loss: 0.000280
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 10, Epoch [18/100], Train Loss: 0.004769, Val Loss: 0.000247
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 10, Epoch [19/100], Train Loss: 0.004560, Val Loss: 0.000266
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 10, Epoch [20/100], Train Loss: 0.004404, Val Loss: 0.000246
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 10, Epoch [21/100], Train Loss: 0.004936, Val Loss: 0.000230
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 10, Epoch [22/100], Train Loss: 0.004238, Val Loss: 0.000252
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 10, Epoch [23/100], Train Loss: 0.004789, Val Loss: 0.000248
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 10, Epoch [24/100], Train Loss: 0.004710, Val Loss: 0.000247
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 10, Epoch [25/100], Train Loss: 0.004316, Val Loss: 0.000228
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 10, Epoch [26/100], Train Loss: 0.004634, Val Loss: 0.000221
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 10, Epoch [27/100], Train Loss: 0.003698, Val Loss: 0.000265
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 10, Epoch [28/100], Train Loss: 0.003973, Val Loss: 0.000211
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 10, Epoch [29/100], Train Loss: 0.004336, Val Loss: 0.000262
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 10, Epoch [30/100], Train Loss: 0.003940, Val Loss: 0.000211
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 10, Epoch [31/100], Train Loss: 0.004506, Val Loss: 0.000240
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 10, Epoch [32/100], Train Loss: 0.004725, Val Loss: 0.000247
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 10, Epoch [33/100], Train Loss: 0.004060, Val Loss: 0.000232
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 10, Epoch [34/100], Train Loss: 0.004218, Val Loss: 0.000223
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 10, Epoch [35/100], Train Loss: 0.003470, Val Loss: 0.000214
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 10, Epoch [36/100], Train Loss: 0.003775, Val Loss: 0.000218
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 10, Epoch [37/100], Train Loss: 0.003892, Val Loss: 0.000242
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 10, Epoch [38/100], Train Loss: 0.004214, Val Loss: 0.000241
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 10, Epoch [39/100], Train Loss: 0.004530, Val Loss: 0.000267
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 10, Epoch [40/100], Train Loss: 0.004450, Val Loss: 0.000217
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 10, Epoch [41/100], Train Loss: 0.004319, Val Loss: 0.000240
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 10, Epoch [42/100], Train Loss: 0.004396, Val Loss: 0.000229
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 10, Epoch [43/100], Train Loss: 0.004180, Val Loss: 0.000211
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 10, Epoch [44/100], Train Loss: 0.004066, Val Loss: 0.000212
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 10, Epoch [45/100], Train Loss: 0.003638, Val Loss: 0.000213
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 10, Epoch [46/100], Train Loss: 0.004008, Val Loss: 0.000200
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 10, Epoch [47/100], Train Loss: 0.003888, Val Loss: 0.000202
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 10, Epoch [48/100], Train Loss: 0.004031, Val Loss: 0.000213
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 10, Epoch [49/100], Train Loss: 0.003777, Val Loss: 0.000231
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 10, Epoch [50/100], Train Loss: 0.003818, Val Loss: 0.000254
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 10, Epoch [51/100], Train Loss: 0.003912, Val Loss: 0.000207
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 10, Epoch [52/100], Train Loss: 0.003880, Val Loss: 0.000214
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 10, Epoch [53/100], Train Loss: 0.003516, Val Loss: 0.000219
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 10, Epoch [54/100], Train Loss: 0.004300, Val Loss: 0.000254
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 10, Epoch [55/100], Train Loss: 0.004405, Val Loss: 0.000203
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 10, Epoch [56/100], Train Loss: 0.003715, Val Loss: 0.000253
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 10, Epoch [57/100], Train Loss: 0.004521, Val Loss: 0.000275
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 10, Epoch [58/100], Train Loss: 0.004283, Val Loss: 0.000233
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 10, Epoch [59/100], Train Loss: 0.004680, Val Loss: 0.000230
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 10, Epoch [60/100], Train Loss: 0.003859, Val Loss: 0.000206
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 10, Epoch [61/100], Train Loss: 0.004473, Val Loss: 0.000254
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 10, Epoch [62/100], Train Loss: 0.004124, Val Loss: 0.000306
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 10, Epoch [63/100], Train Loss: 0.004279, Val Loss: 0.000229
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 10, Epoch [64/100], Train Loss: 0.003556, Val Loss: 0.000203
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 10, Epoch [65/100], Train Loss: 0.003669, Val Loss: 0.000241
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 10, Epoch [66/100], Train Loss: 0.003657, Val Loss: 0.000209
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 10, Epoch [67/100], Train Loss: 0.004671, Val Loss: 0.000223
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 10, Epoch [68/100], Train Loss: 0.003666, Val Loss: 0.000198
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 10, Epoch [69/100], Train Loss: 0.004067, Val Loss: 0.000239
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 10, Epoch [70/100], Train Loss: 0.004077, Val Loss: 0.000214
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 10, Epoch [71/100], Train Loss: 0.003843, Val Loss: 0.000204
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 10, Epoch [72/100], Train Loss: 0.003650, Val Loss: 0.000207
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 10, Epoch [73/100], Train Loss: 0.004048, Val Loss: 0.000237
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 10, Epoch [74/100], Train Loss: 0.003764, Val Loss: 0.000213
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 10, Epoch [75/100], Train Loss: 0.003394, Val Loss: 0.000191
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 10, Epoch [76/100], Train Loss: 0.003857, Val Loss: 0.000202
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 10, Epoch [77/100], Train Loss: 0.003684, Val Loss: 0.000191
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 10, Epoch [78/100], Train Loss: 0.003416, Val Loss: 0.000197
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 10, Epoch [79/100], Train Loss: 0.004229, Val Loss: 0.000239
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 10, Epoch [80/100], Train Loss: 0.003964, Val Loss: 0.000238
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 10, Epoch [81/100], Train Loss: 0.003930, Val Loss: 0.000210
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 10, Epoch [82/100], Train Loss: 0.003714, Val Loss: 0.000233
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 10, Epoch [83/100], Train Loss: 0.004171, Val Loss: 0.000202
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 10, Epoch [84/100], Train Loss: 0.003462, Val Loss: 0.000211
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 10, Epoch [85/100], Train Loss: 0.003939, Val Loss: 0.000196
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 10, Epoch [86/100], Train Loss: 0.003468, Val Loss: 0.000196
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 10, Epoch [87/100], Train Loss: 0.003440, Val Loss: 0.000193
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 10, Epoch [88/100], Train Loss: 0.003591, Val Loss: 0.000203
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 10, Epoch [89/100], Train Loss: 0.003338, Val Loss: 0.000200
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 10, Epoch [90/100], Train Loss: 0.003316, Val Loss: 0.000200
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 10, Epoch [91/100], Train Loss: 0.003944, Val Loss: 0.000197
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 10, Epoch [92/100], Train Loss: 0.003743, Val Loss: 0.000190
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 10, Epoch [93/100], Train Loss: 0.003602, Val Loss: 0.000226
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 10, Epoch [94/100], Train Loss: 0.003590, Val Loss: 0.000209
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 10, Epoch [95/100], Train Loss: 0.004173, Val Loss: 0.000197
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 10, Epoch [96/100], Train Loss: 0.004020, Val Loss: 0.000198
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 10, Epoch [97/100], Train Loss: 0.003295, Val Loss: 0.000205
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 10, Epoch [98/100], Train Loss: 0.004478, Val Loss: 0.000194
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 10, Epoch [99/100], Train Loss: 0.003220, Val Loss: 0.000191
+  0%|          | 0/71 [00:00<?, ?it/s]
+Fold 10, Epoch [100/100], Train Loss: 0.003831, Val Loss: 0.000206
+Average Train Loss Across Folds: 0.007785
+Average Validation Loss Across Folds: 0.000377
+/home/mehdi.bejani@technoprobe.local/Project_eye/Autoencoder.py:855: MatplotlibDeprecationWarning: The 'labels' parameter of boxplot() has been renamed 'tick_labels' since Matplotlib 3.9; support for the old name will be dropped in 3.11.
+  plt.boxplot(
+Test Loss (MSE): 0.001628
+Interp Loss (MSE): 0.003299
+Figure saved to Sample_1_comparison.png
+Figure saved to Sample_2_comparison.png
+Figure saved to Sample_3_comparison.png
+Figure saved to Sample_4_comparison.png
+Figure saved to Sample_5_comparison.png
