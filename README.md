@@ -1,4 +1,4 @@
-# [SAITS](https://github.com/WenjieDu/SAITS) Model for Imputation of Smooth Pursuit Eye Movement
+# [SAITS](https://github.com/WenjieDu/SAITS) Model for Imputation of Smooth Pursuit Eye Movements
 
 ## Overview
 
