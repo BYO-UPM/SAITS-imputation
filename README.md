@@ -1,6 +1,7 @@
-# [SAITS](https://github.com/WenjieDu/SAITS) Model for Imputation of Smooth Pursuit Eye Movements
+%# [SAITS](https://github.com/WenjieDu/SAITS) Model for Imputation of Smooth Pursuit Eye Movements
 
-**Imputation of Missing Data in Smooth Pursuit Eye Movements Using a Self-Attention-based Deep Learning Approach**
+#Imputation of Missing Data in Smooth Pursuit Eye Movements Using a Self-Attention-based Deep Learning Approach
+
 M Bejani, G Perez-de-Arenaza-Pozo, JD Arias-Londoño, JI Godino-Llorente.  
 arXiv Preprint [arXiv:2506.00545](https://arxiv.org/abs/2506.00545) 
 
