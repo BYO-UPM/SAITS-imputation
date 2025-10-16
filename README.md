@@ -16,11 +16,7 @@ This repository accompanies the paper:
 > arXiv Preprint [arXiv:2506.00545](https://arxiv.org/abs/2506.00545) 
  
 
----
-
-## Overview
-
-This repository implements the [SAITS](https://github.com/WenjieDu/SAITS) model for the imputation of smooth pursuit eye movement data. The project compares the performance of the [SAITS](https://github.com/WenjieDu/SAITS) model against various other imputation methods, including **KNN**, **PCHIP**, and **SSA**. 
+The code uses a [SAITS](https://github.com/WenjieDu/SAITS) based model for the imputation of smooth pursuit eye movement data. The project compares the performance of the [SAITS](https://github.com/WenjieDu/SAITS) model against various other imputation methods, including **KNN**, **PCHIP**, and **SSA**. 
 
 ---
 
