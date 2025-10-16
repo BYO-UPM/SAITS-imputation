@@ -17,6 +17,7 @@ The repository is organized into the following main directories:
 - **Autoencoder/**: Contains the code for training and testing the autoencoder, with the best weights saved for use in the pipeline_all directory.
 
 **Cite as:**
+
 @misc{bejani2025imputationmissingdatasmooth,
       title={Imputation of Missing Data in Smooth Pursuit Eye Movements Using a Self-Attention-based Deep Learning Approach}, 
       author={Mehdi Bejani and Guillermo Perez-de-Arenaza-Pozo and Julián D. Arias-Londoño and Juan I. Godino-LLorente},
