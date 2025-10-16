@@ -1,13 +1,16 @@
 
-
 # Imputation of Missing Data in Smooth Pursuit Eye Movements Using a Self-Attention-based Deep Learning Approach
 
 M Bejani, G Perez-de-Arenaza-Pozo, JD Arias-Londoño, JI Godino-Llorente.  
 arXiv Preprint [arXiv:2506.00545](https://arxiv.org/abs/2506.00545) 
 
+---
+
 ## Overview
 
 This repository implements the [SAITS](https://github.com/WenjieDu/SAITS) model for the imputation of smooth pursuit eye movement data. The project compares the performance of the [SAITS](https://github.com/WenjieDu/SAITS) model against various other imputation methods, including **KNN**, **PCHIP**, and **SSA**. 
+
+---
 
 ## Repository Structure
 
@@ -25,8 +28,8 @@ If you use this work, please cite:
 
 ```bibtex
 @misc{bejani2025imputationmissingdatasmooth,
-title={Imputation of Missing Data in Smooth Pursuit Eye Movements Using a Self-Attention-based Deep Learning Approach}, 
-author={Mehdi Bejani and Guillermo Perez-de-Arenaza-Pozo and Julián D. Arias-Londoño and Juan I. Godino-LLorente},
+      title={Imputation of Missing Data in Smooth Pursuit Eye Movements Using a Self-Attention-based Deep Learning Approach}, 
+      author={Mehdi Bejani and Guillermo Perez-de-Arenaza-Pozo and Julián D. Arias-Londoño and Juan I. Godino-LLorente},
       year={2025},
       eprint={2506.00545},
       archivePrefix={arXiv},
