@@ -17,8 +17,13 @@ The repository is organized into the following main directories:
 - **data_preprocessing/**: Includes all preprocessing scripts necessary for preparing the data for use in the pipeline_all directory.
 - **Autoencoder/**: Contains the code for training and testing the autoencoder, with the best weights saved for use in the pipeline_all directory.
 
-**Cite as:**
+---
 
+## Citation
+
+If you use this work, please cite:
+
+```bibtex
 @misc{bejani2025imputationmissingdatasmooth,
 title={Imputation of Missing Data in Smooth Pursuit Eye Movements Using a Self-Attention-based Deep Learning Approach}, 
 author={Mehdi Bejani and Guillermo Perez-de-Arenaza-Pozo and Julián D. Arias-Londoño and Juan I. Godino-LLorente},
@@ -28,3 +33,23 @@ author={Mehdi Bejani and Guillermo Perez-de-Arenaza-Pozo and Julián D. Arias-Lo
       primaryClass={cs.LG},
       url={https://arxiv.org/abs/2506.00545}, 
 }
+
+```
+
+---
+
+## License
+
+This repository is licensed under [CC-BY-NC 4.0 International](https://creativecommons.org/licenses/by-nc/4.0/).
+
+---
+
+## Contact
+
+For questions and collaborations, please contact:  
+**ignacio.godino@upm.es**
+
+---
+
+**Keywords:** Eye movements | Smooth pursuit | Imputation | SAITS | Refinement Atoencoder 
+
