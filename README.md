@@ -56,7 +56,7 @@ This repository is licensed under [CC-BY-NC 4.0 International](https://creativec
 
 ## Contact
 
-For questions and collaborations, please contact:  
+For questions, please contact:  
 **mehdi.bejani@upm.es**
 
 ---
