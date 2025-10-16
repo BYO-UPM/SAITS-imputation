@@ -20,8 +20,8 @@ The repository is organized into the following main directories:
 **Cite as:**
 
 @misc{bejani2025imputationmissingdatasmooth,
-      title={Imputation of Missing Data in Smooth Pursuit Eye Movements Using a Self-Attention-based Deep Learning Approach}, 
-      author={Mehdi Bejani and Guillermo Perez-de-Arenaza-Pozo and Julián D. Arias-Londoño and Juan I. Godino-LLorente},
+title={Imputation of Missing Data in Smooth Pursuit Eye Movements Using a Self-Attention-based Deep Learning Approach}, 
+author={Mehdi Bejani and Guillermo Perez-de-Arenaza-Pozo and Julián D. Arias-Londoño and Juan I. Godino-LLorente},
       year={2025},
       eprint={2506.00545},
       archivePrefix={arXiv},
